@@ -1,0 +1,2850 @@
+{
+  "schemaVersion": 1,
+  "presets": [
+    {
+      "id": "minimal",
+      "chatStyle": {
+        "family": "Bahnschrift SemiCondensed",
+        "insetX": 0,
+        "insetY": 0,
+        "edge": "#b392b4c9",
+        "cell": "#ff03070b",
+        "radius": 16,
+        "glow": 0,
+        "bevel": 0,
+        "padding": 8,
+        "gap": 3,
+        "fillBehindRows": false
+      },
+      "name": "Minimal",
+      "eventListStyle": {
+        "family": "Segoe UI",
+        "title": "#ffdeefff",
+        "value": "#ffffffff",
+        "titleSize": 15,
+        "valueSize": 18,
+        "cardBackground": "#ef060c15",
+        "cardEdge": "#d2a6cce6",
+        "cardRadius": 9,
+        "cardGlow": 2,
+        "changeGlow": 35,
+        "changeParticles": 2,
+        "changeSweep": true,
+        "changePattern": 6,
+        "changeParticleShape": 0
+      },
+      "style": {
+        "family": "Segoe UI",
+        "background": "#e613171f",
+        "title": "#ffd9dce6",
+        "value": "#ffffffff",
+        "titleSize": 11,
+        "valueSize": 18,
+        "padding": 12,
+        "gap": 5,
+        "backgroundImage": "minimal-frame.png",
+        "cards": true,
+        "backgroundCrop": [
+          0,
+          325,
+          1000,
+          355
+        ],
+        "backgroundEdge": 120,
+        "iconImage": "supporter-icons.png",
+        "iconCrop": [
+          0,
+          230,
+          1000,
+          510
+        ],
+        "cardBackground": "#ee0a0d17",
+        "cardEdge": "#aa75879b",
+        "cardInset": 45,
+        "cardTop": 20,
+        "cardHeight": 55,
+        "changeGlow": 85,
+        "changeParticles": 4,
+        "changeSweep": true,
+        "changeColors": [
+          "#ffdaf0ff",
+          "#ffdaf0ff",
+          "#ffdaf0ff",
+          "#ffdaf0ff",
+          "#ffdaf0ff",
+          "#ffdaf0ff"
+        ],
+        "changePattern": 6,
+        "changeParticleShape": 0
+      },
+      "alertStyle": {
+        "family": "Segoe UI",
+        "energyPattern": 7,
+        "particles": 4,
+        "colors": [
+          "#ffdaf0ff",
+          "#ffdaf0ff",
+          "#ffdaf0ff",
+          "#ffdaf0ff",
+          "#ffdaf0ff",
+          "#ffdaf0ff"
+        ],
+        "headlines": [
+          "FOLLOWER",
+          "SUBSCRIPTION",
+          "SUB",
+          "SUBS PACK",
+          "RAIDED IN",
+          "CHEER"
+        ],
+        "captions": [
+          "NEW",
+          "NEW",
+          "GIFTED",
+          "GIFTED",
+          "WELCOME",
+          "NEW"
+        ],
+        "headlineColor": "#fff2f8ff",
+        "captionColor": "#ffc4d3e0",
+        "iconAnimations": [
+          "minimal-alert-icon-heart.png",
+          "minimal-alert-icon-crown.png",
+          "minimal-alert-icon-gift.png",
+          "minimal-alert-icon-gift-pack.png",
+          "minimal-alert-icon-raid.png",
+          "minimal-alert-icon-bits.png"
+        ]
+      },
+      "shoutoutStyle": {
+        "atlas": "minimal-shoutout.png",
+        "family": "Segoe UI",
+        "name": "#ff101015",
+        "details": "#ff101015",
+        "assetBox": [
+          20,
+          248,
+          760,
+          304
+        ],
+        "portraitBox": [
+          134,
+          349,
+          123,
+          121
+        ],
+        "nameBox": [
+          283,
+          386,
+          274,
+          33
+        ],
+        "categoryBox": [
+          329,
+          420,
+          228,
+          24
+        ],
+        "followersBox": [
+          329,
+          448,
+          228,
+          24
+        ],
+        "circular": true,
+        "hexagonal": false,
+        "motionPattern": 7
+      },
+      "hypeStyle": {
+        "family": "Bahnschrift",
+        "titleFamily": "Segoe UI Semibold",
+        "accent": "#ffdaf0ff",
+        "secondary": "#ff92b4c9",
+        "labels": "#ffdaf0ff",
+        "numbers": "#ffffffff",
+        "pattern": 7,
+        "particles": 8,
+        "atlas": "hype-reference-atlas.png",
+        "thanksAtlas": "hype-thanks-atlas.png",
+        "atlasCrop": [
+          526,
+          622,
+          426,
+          175
+        ],
+        "thanksCrop": [
+          535,
+          627,
+          432,
+          198
+        ],
+        "titleBox": [
+          189,
+          50,
+          412,
+          317
+        ],
+        "levelBox": [
+          39,
+          194,
+          102,
+          662
+        ],
+        "barBox": [
+          182,
+          489,
+          310,
+          165
+        ],
+        "timerBox": [
+          664,
+          410,
+          67,
+          259
+        ],
+        "leaderBox": [
+          766,
+          122,
+          212,
+          799
+        ],
+        "percentBox": [
+          530,
+          403,
+          77,
+          374
+        ],
+        "fillEnd": "#ffffffff",
+        "levelColor": "#ffdaf0ff",
+        "levelLabel": "#ffffffff",
+        "headerColor": "#ffdaf0ff",
+        "timeLabel": "#ffdaf0ff"
+      }
+    },
+    {
+      "id": "neon-dj",
+      "chatStyle": {
+        "atlas": "neon-dj-chat-frame-v1.png",
+        "crop": [
+          0,
+          0,
+          1000,
+          1000
+        ],
+        "insetX": 22,
+        "insetY": 14,
+        "edge": "#ff822eff",
+        "cell": "#ff040916",
+        "radius": 10,
+        "glow": 0,
+        "bevel": 0,
+        "cap": 180,
+        "capY": 180,
+        "corner": 28,
+        "padding": 8,
+        "gap": 4,
+        "rowCards": false
+      },
+      "name": "Neon DJ",
+      "alertStyle": {
+        "atlas": "neon-dj-alerts.png",
+        "family": "Segoe UI Black",
+        "particles": 12,
+        "burstImage": "neon-dj-alert-burst.png",
+        "ringImage": "neon-dj-alert-ring.png",
+        "burstCrop": [
+          0,
+          0,
+          1000,
+          1000
+        ],
+        "ringCrop": [
+          0,
+          0,
+          1000,
+          1000
+        ],
+        "colors": [
+          "#ff1ce5ff",
+          "#ffffd628",
+          "#ffff53e8",
+          "#ff38eaff",
+          "#ff17edcc",
+          "#ffe269ff"
+        ],
+        "captions": [
+          "NEW",
+          "NEW",
+          "GIFTED",
+          "GIFTED",
+          "RAIDED",
+          "NEW"
+        ],
+        "headlines": [
+          "FOLLOWER",
+          "SUBSCRIPTION",
+          "SUB",
+          "SUBS PACK",
+          "IN",
+          "CHEER"
+        ],
+        "iconCrops": [
+          [
+            0,
+            500,
+            250,
+            250
+          ],
+          [
+            250,
+            500,
+            250,
+            250
+          ],
+          [
+            500,
+            500,
+            250,
+            250
+          ],
+          [
+            750,
+            500,
+            250,
+            250
+          ],
+          [
+            0,
+            750,
+            250,
+            250
+          ],
+          [
+            250,
+            750,
+            250,
+            250
+          ]
+        ],
+        "iconAnimations": [
+          "neon-alert-icon-heart.png",
+          "neon-alert-icon-crown.png",
+          "neon-alert-icon-gift.png",
+          "neon-alert-icon-gift-pack.png",
+          "neon-alert-icon-raid.png",
+          "neon-alert-icon-bits.png"
+        ]
+      },
+      "eventListStyle": {
+        "family": "Bahnschrift SemiCondensed",
+        "title": "#ffbb60ff",
+        "value": "#ffffffff",
+        "titleSize": 16,
+        "valueSize": 20,
+        "backgroundImage": "neon-dj-event-list.png",
+        "backgroundBands": 5,
+        "rowCrops": [
+          [
+            0,
+            60,
+            1000,
+            164
+          ],
+          [
+            0,
+            240,
+            1000,
+            160
+          ],
+          [
+            0,
+            420,
+            1000,
+            172
+          ],
+          [
+            0,
+            612,
+            1000,
+            163
+          ],
+          [
+            0,
+            805,
+            1000,
+            168
+          ]
+        ],
+        "nameStart": 330,
+        "badgeBox": [
+          160,
+          200,
+          140,
+          600
+        ],
+        "titleColors": [
+          "#ff00e8ff",
+          "#ffff45ec",
+          "#ffdf69ff",
+          "#ffffd32f",
+          "#ffff355d",
+          "#ff00e8ff"
+        ],
+        "cardRadius": 9,
+        "changeGlow": 100,
+        "changeParticles": 12,
+        "changeSweep": true,
+        "changePattern": 0,
+        "changeParticleShape": 5
+      },
+      "style": {
+        "family": "Segoe UI",
+        "background": "#e60b0820",
+        "title": "#ffd9dce6",
+        "value": "#ffffffff",
+        "titleSize": 11,
+        "valueSize": 18,
+        "padding": 16,
+        "gap": 5,
+        "backgroundImage": "neon-dj-frame.png",
+        "cards": true,
+        "backgroundCrop": [
+          0,
+          315,
+          1000,
+          355
+        ],
+        "backgroundEdge": 120,
+        "iconImage": "neon-dj-icons.png",
+        "iconCrop": [
+          0,
+          230,
+          1000,
+          510
+        ],
+        "cardBackground": "#f502050d",
+        "cardEdge": "#bb70419b",
+        "cardInset": 75,
+        "cardTop": 27,
+        "cardHeight": 47,
+        "titleColors": [
+          "#ffff53df",
+          "#ffa4e9ff",
+          "#ffbb7cf5",
+          "#ffffb0dd",
+          "#ff00e7f4",
+          "#ff98ffe9"
+        ],
+        "changeGlow": 100,
+        "changeParticles": 12,
+        "changeSweep": true,
+        "changeColors": [
+          "#ffff18b4",
+          "#ffffc21a",
+          "#ffab38ff",
+          "#ffff2594",
+          "#ff00dfff",
+          "#ffffc21a"
+        ],
+        "changePattern": 0,
+        "changeParticleShape": 0,
+        "cardRadius": 12,
+        "cardGlow": 3,
+        "cardEdges": [
+          "#ccdb18ba",
+          "#bb00a4e3",
+          "#bb8031d2",
+          "#bbb61a85",
+          "#cc00ccea",
+          "#bb00abb9"
+        ]
+      },
+      "shoutoutStyle": {
+        "atlas": "neon-dj-shoutout.png",
+        "family": "Segoe UI",
+        "name": "#ffffffff",
+        "details": "#ffffffff",
+        "assetBox": [
+          20,
+          186,
+          760,
+          428
+        ],
+        "portraitBox": [
+          136,
+          363,
+          151,
+          151
+        ],
+        "nameBox": [
+          335,
+          380,
+          296,
+          35
+        ],
+        "categoryBox": [
+          377,
+          424,
+          255,
+          25
+        ],
+        "followersBox": [
+          377,
+          456,
+          255,
+          25
+        ],
+        "circular": true,
+        "hexagonal": false,
+        "motionPattern": 0
+      },
+      "hypeStyle": {
+        "family": "Bahnschrift",
+        "titleFamily": "Segoe UI Black",
+        "accent": "#ff13dfff",
+        "secondary": "#ffff00da",
+        "labels": "#ff13dfff",
+        "numbers": "#ffffffff",
+        "pattern": 0,
+        "particles": 22,
+        "atlas": "hype-reference-atlas.png",
+        "thanksAtlas": "hype-thanks-atlas.png",
+        "atlasCrop": [
+          49,
+          0,
+          448,
+          209
+        ],
+        "thanksCrop": [
+          77,
+          0,
+          383,
+          219
+        ],
+        "titleBox": [
+          253,
+          6,
+          329,
+          452
+        ],
+        "levelBox": [
+          63,
+          295,
+          92,
+          554
+        ],
+        "barBox": [
+          189,
+          518,
+          300,
+          145
+        ],
+        "timerBox": [
+          655,
+          452,
+          72,
+          211
+        ],
+        "leaderBox": [
+          751,
+          151,
+          203,
+          753
+        ],
+        "percentBox": [
+          509,
+          440,
+          73,
+          319
+        ],
+        "fillEnd": "#ffff00da",
+        "levelColor": "#ffff8bea",
+        "levelLabel": "#ffffffff",
+        "headerColor": "#ffff42d6",
+        "timeLabel": "#ffcebbff"
+      }
+    },
+    {
+      "id": "cyberpunk",
+      "chatStyle": {
+        "insetX": 12,
+        "insetY": 8,
+        "edge": "#8c00dbe8",
+        "accent": "#ffff2855",
+        "cell": "#ff02070b",
+        "radius": 0,
+        "glow": 0,
+        "bevel": 9,
+        "padding": 8,
+        "gap": 3,
+        "circuit": true
+      },
+      "name": "Cyberpunk",
+      "alertStyle": {
+        "family": "Segoe UI Black",
+        "energyPattern": 1,
+        "headlineColor": "#ff10071c",
+        "captionColor": "#ff10071c",
+        "particles": 12,
+        "colors": [
+          "#ffb537ff",
+          "#ffbd52ff",
+          "#ffa83bff",
+          "#ff8648ff",
+          "#ffc060ff",
+          "#ffa65bff"
+        ],
+        "headlines": [
+          "FOLLOWER",
+          "SUBSCRIPTION",
+          "SUB",
+          "SUBS PACK",
+          "RAIDED IN",
+          "CHEER"
+        ],
+        "captions": [
+          "NEW",
+          "NEW",
+          "GIFTED",
+          "GIFTED",
+          "WELCOME",
+          "NEW"
+        ],
+        "iconAnimations": [
+          "cyber-alert-icon-heart.png",
+          "cyber-alert-icon-crown.png",
+          "cyber-alert-icon-gift.png",
+          "cyber-alert-icon-gift-pack.png",
+          "cyber-alert-icon-raid.png",
+          "cyber-alert-icon-bits.png"
+        ]
+      },
+      "eventListStyle": {
+        "family": "Bahnschrift SemiCondensed",
+        "title": "#ff00e6ff",
+        "value": "#ffffffff",
+        "titleSize": 16,
+        "valueSize": 20,
+        "backgroundImage": "cyberpunk-event-list.png",
+        "backgroundBands": 5,
+        "rowCrops": [
+          [
+            0,
+            50,
+            1000,
+            190
+          ],
+          [
+            0,
+            236,
+            1000,
+            170
+          ],
+          [
+            0,
+            409,
+            1000,
+            180
+          ],
+          [
+            0,
+            588,
+            1000,
+            180
+          ],
+          [
+            0,
+            764,
+            1000,
+            180
+          ]
+        ],
+        "nameStart": 330,
+        "badgeBox": [
+          160,
+          200,
+          140,
+          600
+        ],
+        "titleColors": [
+          "#ff00e6ff",
+          "#ffff2759",
+          "#ffd557ff",
+          "#ff00e6ff",
+          "#ffff2759",
+          "#ff00e6ff"
+        ],
+        "cardRadius": 3,
+        "changeGlow": 100,
+        "changeParticles": 12,
+        "changeSweep": true,
+        "changePattern": 1,
+        "changeParticleShape": 1
+      },
+      "style": {
+        "family": "Segoe UI",
+        "background": "#e60d1017",
+        "title": "#ffd9dce6",
+        "value": "#ffffffff",
+        "titleSize": 11,
+        "valueSize": 18,
+        "padding": 18,
+        "gap": 5,
+        "backgroundImage": "cyberpunk-frame.png",
+        "cards": true,
+        "backgroundCrop": [
+          0,
+          285,
+          1000,
+          405
+        ],
+        "backgroundEdge": 120,
+        "iconImage": "supporter-icons.png",
+        "iconCrop": [
+          0,
+          230,
+          1000,
+          510
+        ],
+        "cardBackground": "#ee0a0d17",
+        "cardEdge": "#bbe3ad24",
+        "cardInset": 75,
+        "cardTop": 27,
+        "cardHeight": 47,
+        "titleColors": [
+          "#ffff91c4",
+          "#ffb5ecf0",
+          "#ffcfabf0",
+          "#ffffa4cf",
+          "#ff9eebf3",
+          "#ffb3e6cf"
+        ],
+        "changeGlow": 100,
+        "changeParticles": 12,
+        "changeSweep": true,
+        "changeColors": [
+          "#ffffd219",
+          "#ffffd219",
+          "#ffffd219",
+          "#ffffd219",
+          "#ffffd219",
+          "#ffffd219"
+        ],
+        "changePattern": 1,
+        "changeParticleShape": 1
+      },
+      "shoutoutStyle": {
+        "atlas": "cyberpunk-shoutout.png",
+        "family": "Segoe UI",
+        "name": "#ffffffff",
+        "details": "#ff63efff",
+        "assetBox": [
+          20,
+          243,
+          760,
+          314
+        ],
+        "portraitBox": [
+          132,
+          337,
+          165,
+          164
+        ],
+        "nameBox": [
+          335,
+          343,
+          274,
+          41
+        ],
+        "categoryBox": [
+          382,
+          396,
+          217,
+          19
+        ],
+        "followersBox": [
+          382,
+          427,
+          217,
+          19
+        ],
+        "circular": true,
+        "hexagonal": false,
+        "motionPattern": 1
+      },
+      "hypeStyle": {
+        "family": "Bahnschrift",
+        "titleFamily": "Bahnschrift",
+        "accent": "#ffff1859",
+        "secondary": "#ff00eaf0",
+        "labels": "#ffff1859",
+        "numbers": "#ffffffff",
+        "pattern": 1,
+        "particles": 18,
+        "atlas": "hype-reference-atlas.png",
+        "thanksAtlas": "hype-thanks-atlas.png",
+        "atlasCrop": [
+          518,
+          0,
+          438,
+          206
+        ],
+        "thanksCrop": [
+          540,
+          0,
+          414,
+          219
+        ],
+        "titleBox": [
+          201,
+          123,
+          366,
+          344
+        ],
+        "levelBox": [
+          56,
+          337,
+          99,
+          521
+        ],
+        "barBox": [
+          190,
+          540,
+          306,
+          147
+        ],
+        "timerBox": [
+          670,
+          485,
+          72,
+          190
+        ],
+        "leaderBox": [
+          764,
+          166,
+          209,
+          773
+        ],
+        "percentBox": [
+          522,
+          448,
+          75,
+          325
+        ],
+        "fillEnd": "#ffff007c",
+        "levelColor": "#ffff1859",
+        "levelLabel": "#ffffffff",
+        "headerColor": "#ffff1859",
+        "timeLabel": "#ffff1859"
+      }
+    },
+    {
+      "id": "retro-crt",
+      "chatStyle": {
+        "atlas": "retro-crt-chat-frame-v1.png",
+        "crop": [
+          0,
+          0,
+          1000,
+          1000
+        ],
+        "insetX": 28,
+        "insetY": 20,
+        "edge": "#dd896441",
+        "cell": "#ff030a08",
+        "radius": 6,
+        "glow": 0,
+        "bevel": 0,
+        "family": "Bahnschrift SemiCondensed",
+        "scanlines": true,
+        "cap": 160,
+        "capY": 240,
+        "corner": 48,
+        "padding": 8,
+        "gap": 3,
+        "rowCards": false
+      },
+      "name": "Retro CRT",
+      "eventListStyle": {
+        "family": "Bahnschrift SemiCondensed",
+        "title": "#ff62eaff",
+        "value": "#ffffffff",
+        "titleSize": 16,
+        "valueSize": 20,
+        "backgroundImage": "retro-crt-event-list.png",
+        "backgroundBands": 5,
+        "rowCrops": [
+          [
+            0,
+            25,
+            1000,
+            188
+          ],
+          [
+            0,
+            213,
+            1000,
+            188
+          ],
+          [
+            0,
+            401,
+            1000,
+            188
+          ],
+          [
+            0,
+            589,
+            1000,
+            188
+          ],
+          [
+            0,
+            777,
+            1000,
+            188
+          ]
+        ],
+        "nameStart": 350,
+        "badgeBox": [
+          195,
+          220,
+          130,
+          570
+        ],
+        "titleColors": [
+          "#ff62eaff",
+          "#ff5a9aff",
+          "#ffffbc42",
+          "#ff65ffae",
+          "#ffff5f69",
+          "#ff62eaff"
+        ],
+        "cardRadius": 5,
+        "changeGlow": 95,
+        "changeParticles": 8,
+        "changeSweep": true,
+        "changePattern": 2,
+        "changeParticleShape": 1
+      },
+      "style": {
+        "family": "Segoe UI",
+        "background": "#e605140c",
+        "title": "#ffd9dce6",
+        "value": "#ffffffff",
+        "titleSize": 11,
+        "valueSize": 18,
+        "padding": 16,
+        "gap": 5,
+        "backgroundImage": "retro-crt-frame.png",
+        "cards": true,
+        "backgroundCrop": [
+          0,
+          280,
+          1000,
+          380
+        ],
+        "backgroundEdge": 120,
+        "iconImage": "supporter-icons.png",
+        "iconCrop": [
+          0,
+          230,
+          1000,
+          510
+        ],
+        "cardBackground": "#ee0a0d17",
+        "cardEdge": "#bb887368",
+        "cardInset": 75,
+        "cardTop": 27,
+        "cardHeight": 47,
+        "cardEdges": [
+          "#ccdbac32",
+          "#ccd9953a",
+          "#cca477d8",
+          "#cce05062",
+          "#cc49c5de",
+          "#cc67c695"
+        ],
+        "titleColors": [
+          "#ffff91c4",
+          "#ffb5ecf0",
+          "#ffcfabf0",
+          "#ffffa4cf",
+          "#ff9eebf3",
+          "#ffb3e6cf"
+        ],
+        "changeGlow": 95,
+        "changeParticles": 8,
+        "changeSweep": true,
+        "changeColors": [
+          "#ffffae25",
+          "#ffffae25",
+          "#ffffae25",
+          "#ffffae25",
+          "#ffffae25",
+          "#ffffae25"
+        ],
+        "changePattern": 2,
+        "changeParticleShape": 1
+      },
+      "alertStyle": {
+        "family": "Bahnschrift SemiCondensed",
+        "energyPattern": 2,
+        "particles": 8,
+        "colors": [
+          "#ffff79ce",
+          "#ffc889ff",
+          "#ffff85d3",
+          "#fff6b951",
+          "#ffa593ff",
+          "#ffc178ff"
+        ],
+        "headlines": [
+          "FOLLOWER",
+          "SUBSCRIPTION",
+          "SUB",
+          "SUBS PACK",
+          "RAIDED IN",
+          "CHEER"
+        ],
+        "captions": [
+          "NEW",
+          "NEW",
+          "GIFTED",
+          "GIFTED",
+          "WELCOME",
+          "NEW"
+        ],
+        "iconAnimations": [
+          "crt-alert-icon-heart.png",
+          "crt-alert-icon-crown.png",
+          "crt-alert-icon-gift.png",
+          "crt-alert-icon-gift-pack.png",
+          "crt-alert-icon-raid.png",
+          "crt-alert-icon-bits.png"
+        ]
+      },
+      "shoutoutStyle": {
+        "atlas": "retro-crt-shoutout.png",
+        "family": "Segoe UI",
+        "name": "#ffffffff",
+        "details": "#ffffffff",
+        "assetBox": [
+          20,
+          238,
+          760,
+          325
+        ],
+        "portraitBox": [
+          106,
+          325,
+          168,
+          162
+        ],
+        "nameBox": [
+          308,
+          362,
+          256,
+          39
+        ],
+        "categoryBox": [
+          355,
+          406,
+          203,
+          30
+        ],
+        "followersBox": [
+          355,
+          448,
+          183,
+          30
+        ],
+        "circular": false,
+        "hexagonal": false,
+        "motionPattern": 2
+      },
+      "hypeStyle": {
+        "family": "Consolas",
+        "titleFamily": "Consolas",
+        "accent": "#ff44ff52",
+        "secondary": "#ff00d5b2",
+        "labels": "#ff00d5b2",
+        "numbers": "#ffffffff",
+        "pattern": 2,
+        "particles": 16,
+        "atlas": "hype-reference-atlas.png",
+        "thanksAtlas": "hype-thanks-atlas.png",
+        "atlasCrop": [
+          59,
+          211,
+          431,
+          190
+        ],
+        "thanksCrop": [
+          54,
+          214,
+          430,
+          184
+        ],
+        "titleBox": [
+          229,
+          139,
+          320,
+          265
+        ],
+        "levelBox": [
+          50,
+          238,
+          94,
+          583
+        ],
+        "barBox": [
+          182,
+          503,
+          297,
+          166
+        ],
+        "timerBox": [
+          632,
+          450,
+          71,
+          219
+        ],
+        "leaderBox": [
+          745,
+          179,
+          214,
+          735
+        ],
+        "percentBox": [
+          511,
+          444,
+          76,
+          351
+        ],
+        "fillEnd": "#ff05ed18",
+        "levelColor": "#ff00d5b2",
+        "levelLabel": "#ffffffff",
+        "headerColor": "#ff00d5b2",
+        "timeLabel": "#ff00d5b2"
+      }
+    },
+    {
+      "id": "space",
+      "chatStyle": {
+        "atlas": "space-chat-frame-v1.png",
+        "crop": [
+          0,
+          0,
+          1000,
+          1000
+        ],
+        "insetX": 64,
+        "insetY": 20,
+        "edge": "#ee795cff",
+        "cell": "#ff03091b",
+        "radius": 12,
+        "glow": 0,
+        "bevel": 0,
+        "family": "Bahnschrift SemiCondensed",
+        "cap": 240,
+        "capY": 240,
+        "corner": 100,
+        "preserveCornerAspect": true,
+        "padding": 8,
+        "gap": 3,
+        "rowCards": false
+      },
+      "name": "Space",
+      "eventListStyle": {
+        "family": "Bahnschrift SemiCondensed",
+        "title": "#ff8dbaff",
+        "value": "#ffffffff",
+        "titleSize": 16,
+        "valueSize": 20,
+        "backgroundImage": "space-event-list.png",
+        "backgroundBands": 5,
+        "rowCrops": [
+          [
+            0,
+            36,
+            1000,
+            196
+          ],
+          [
+            0,
+            224,
+            1000,
+            196
+          ],
+          [
+            0,
+            413,
+            1000,
+            196
+          ],
+          [
+            0,
+            602,
+            1000,
+            196
+          ],
+          [
+            0,
+            790,
+            1000,
+            200
+          ]
+        ],
+        "nameStart": 380,
+        "badgeBox": [
+          230,
+          260,
+          125,
+          480
+        ],
+        "titleColors": [
+          "#ff6debff",
+          "#ff8dbaff",
+          "#ffdf8fff",
+          "#ffffce58",
+          "#ffff72d8",
+          "#ff6debff"
+        ],
+        "cardRadius": 24,
+        "changeGlow": 100,
+        "changeParticles": 12,
+        "changeSweep": true,
+        "changePattern": 3,
+        "changeParticleShape": 0
+      },
+      "style": {
+        "family": "Segoe UI",
+        "background": "#e6090d24",
+        "title": "#ffd9dce6",
+        "value": "#ffffffff",
+        "titleSize": 11,
+        "valueSize": 18,
+        "padding": 16,
+        "gap": 5,
+        "backgroundImage": "space-frame.png",
+        "cards": true,
+        "backgroundCrop": [
+          0,
+          275,
+          1000,
+          430
+        ],
+        "backgroundEdge": 120,
+        "iconImage": "supporter-icons.png",
+        "iconCrop": [
+          0,
+          230,
+          1000,
+          510
+        ],
+        "cardBackground": "#ee0a0d17",
+        "cardEdge": "#bb736bc8",
+        "cardInset": 95,
+        "cardTop": 27,
+        "cardHeight": 47,
+        "titleColors": [
+          "#ffff91c4",
+          "#ffb5ecf0",
+          "#ffcfabf0",
+          "#ffffa4cf",
+          "#ff9eebf3",
+          "#ffb3e6cf"
+        ],
+        "changeGlow": 100,
+        "changeParticles": 12,
+        "changeSweep": true,
+        "changeColors": [
+          "#ff985fff",
+          "#ff985fff",
+          "#ff985fff",
+          "#ff985fff",
+          "#ff985fff",
+          "#ff985fff"
+        ],
+        "changePattern": 3,
+        "changeParticleShape": 0
+      },
+      "alertStyle": {
+        "family": "Bahnschrift SemiCondensed",
+        "energyPattern": 3,
+        "particles": 10,
+        "colors": [
+          "#ff10e6ff",
+          "#ff50ddff",
+          "#ff28e1f0",
+          "#ff67cfff",
+          "#ff28ffd4",
+          "#ff79aaff"
+        ],
+        "headlines": [
+          "FOLLOWER",
+          "SUBSCRIPTION",
+          "SUB",
+          "SUBS PACK",
+          "RAIDED IN",
+          "CHEER"
+        ],
+        "captions": [
+          "NEW",
+          "NEW",
+          "GIFTED",
+          "GIFTED",
+          "WELCOME",
+          "NEW"
+        ],
+        "iconAnimations": [
+          "space-alert-icon-heart.png",
+          "space-alert-icon-crown.png",
+          "space-alert-icon-gift.png",
+          "space-alert-icon-gift-pack.png",
+          "space-alert-icon-raid.png",
+          "space-alert-icon-bits.png"
+        ]
+      },
+      "shoutoutStyle": {
+        "atlas": "space-shoutout.png",
+        "family": "Segoe UI",
+        "name": "#ffffffff",
+        "details": "#ffffffff",
+        "assetBox": [
+          20,
+          269,
+          760,
+          262
+        ],
+        "portraitBox": [
+          104,
+          344,
+          125,
+          127
+        ],
+        "nameBox": [
+          311,
+          401,
+          188,
+          18
+        ],
+        "categoryBox": [
+          344,
+          427,
+          155,
+          18
+        ],
+        "followersBox": [
+          344,
+          454,
+          155,
+          19
+        ],
+        "circular": false,
+        "hexagonal": false,
+        "motionPattern": 3
+      },
+      "hypeStyle": {
+        "family": "Bahnschrift",
+        "titleFamily": "Segoe UI Black",
+        "accent": "#ff00caff",
+        "secondary": "#ffad35ff",
+        "labels": "#ff00caff",
+        "numbers": "#ffffffff",
+        "pattern": 3,
+        "particles": 24,
+        "atlas": "hype-reference-atlas.png",
+        "thanksAtlas": "hype-thanks-atlas.png",
+        "atlasCrop": [
+          518,
+          204,
+          438,
+          198
+        ],
+        "thanksCrop": [
+          535,
+          219,
+          433,
+          182
+        ],
+        "titleBox": [
+          211,
+          140,
+          348,
+          274
+        ],
+        "levelBox": [
+          58,
+          261,
+          98,
+          522
+        ],
+        "barBox": [
+          193,
+          503,
+          308,
+          153
+        ],
+        "timerBox": [
+          663,
+          490,
+          63,
+          197
+        ],
+        "leaderBox": [
+          764,
+          185,
+          209,
+          726
+        ],
+        "percentBox": [
+          529,
+          446,
+          70,
+          338
+        ],
+        "fillEnd": "#ff5863ff",
+        "levelColor": "#ff00caff",
+        "levelLabel": "#ffffffff",
+        "headerColor": "#ff00caff",
+        "timeLabel": "#ff00caff"
+      }
+    },
+    {
+      "id": "horror",
+      "chatStyle": {
+        "atlas": "horror-chat-frame-v1.png",
+        "crop": [
+          0,
+          0,
+          1000,
+          1000
+        ],
+        "insetX": 20,
+        "insetY": 14,
+        "edge": "#ffff3141",
+        "cell": "#ff090304",
+        "radius": 2,
+        "glow": 0,
+        "bevel": 0,
+        "family": "Bahnschrift SemiCondensed",
+        "cap": 160,
+        "capY": 160,
+        "corner": 40,
+        "preserveCornerAspect": true,
+        "fractured": true,
+        "padding": 8,
+        "gap": 3
+      },
+      "name": "Horror",
+      "eventListStyle": {
+        "family": "Bahnschrift SemiCondensed",
+        "title": "#ffff6d61",
+        "value": "#ffffffff",
+        "titleSize": 16,
+        "valueSize": 20,
+        "backgroundImage": "horror-event-list.png",
+        "backgroundBands": 5,
+        "rowCrops": [
+          [
+            0,
+            25,
+            1000,
+            192
+          ],
+          [
+            0,
+            220,
+            1000,
+            187
+          ],
+          [
+            0,
+            408,
+            1000,
+            192
+          ],
+          [
+            0,
+            602,
+            1000,
+            180
+          ],
+          [
+            0,
+            783,
+            1000,
+            192
+          ]
+        ],
+        "nameStart": 380,
+        "badgeBox": [
+          176,
+          365,
+          170,
+          360
+        ],
+        "titleColors": [
+          "#ffff796f",
+          "#ffff6375",
+          "#fffa9277",
+          "#ffff8361",
+          "#ffff4355",
+          "#ffff796f"
+        ],
+        "cardRadius": 12,
+        "changeGlow": 95,
+        "changeParticles": 10,
+        "changeSweep": true,
+        "changePattern": 4,
+        "changeParticleShape": 4
+      },
+      "style": {
+        "family": "Segoe UI",
+        "background": "#e617080b",
+        "title": "#ffd9dce6",
+        "value": "#ffffffff",
+        "titleSize": 11,
+        "valueSize": 18,
+        "padding": 18,
+        "gap": 5,
+        "backgroundImage": "horror-frame.png",
+        "cards": true,
+        "backgroundCrop": [
+          0,
+          245,
+          1000,
+          465
+        ],
+        "backgroundEdge": 120,
+        "iconImage": "supporter-icons.png",
+        "iconCrop": [
+          0,
+          230,
+          1000,
+          510
+        ],
+        "cardBackground": "#ee0a0d17",
+        "cardEdge": "#bbb52b30",
+        "cardInset": 75,
+        "cardTop": 27,
+        "cardHeight": 47,
+        "titleColors": [
+          "#ffff91c4",
+          "#ffb5ecf0",
+          "#ffcfabf0",
+          "#ffffa4cf",
+          "#ff9eebf3",
+          "#ffb3e6cf"
+        ],
+        "changeGlow": 95,
+        "changeParticles": 10,
+        "changeSweep": true,
+        "changeColors": [
+          "#ffff243d",
+          "#ffff243d",
+          "#ffff243d",
+          "#ffff243d",
+          "#ffff243d",
+          "#ffff243d"
+        ],
+        "changePattern": 4,
+        "changeParticleShape": 4
+      },
+      "alertStyle": {
+        "family": "Bahnschrift SemiCondensed",
+        "energyPattern": 4,
+        "particles": 10,
+        "colors": [
+          "#ffff3449",
+          "#ffff4053",
+          "#ffff315a",
+          "#ffff573e",
+          "#ffff3449",
+          "#ffff3863"
+        ],
+        "headlines": [
+          "FOLLOWER",
+          "SUBSCRIPTION",
+          "SUB",
+          "SUBS PACK",
+          "RAIDED IN",
+          "CHEER"
+        ],
+        "captions": [
+          "NEW",
+          "NEW",
+          "GIFTED",
+          "GIFTED",
+          "WELCOME",
+          "NEW"
+        ],
+        "iconAnimations": [
+          "horror-alert-icon-heart.png",
+          "horror-alert-icon-crown.png",
+          "horror-alert-icon-gift.png",
+          "horror-alert-icon-gift-pack.png",
+          "horror-alert-icon-raid.png",
+          "horror-alert-icon-bits.png"
+        ]
+      },
+      "shoutoutStyle": {
+        "atlas": "horror-shoutout.png",
+        "family": "Segoe UI",
+        "name": "#ff101015",
+        "details": "#ff101015",
+        "assetBox": [
+          20,
+          273,
+          760,
+          254
+        ],
+        "portraitBox": [
+          113,
+          339,
+          133,
+          122
+        ],
+        "nameBox": [
+          286,
+          365,
+          233,
+          38
+        ],
+        "categoryBox": [
+          320,
+          411,
+          180,
+          20
+        ],
+        "followersBox": [
+          320,
+          442,
+          180,
+          20
+        ],
+        "circular": false,
+        "hexagonal": true,
+        "motionPattern": 4
+      },
+      "hypeStyle": {
+        "family": "Bahnschrift",
+        "titleFamily": "Chiller",
+        "accent": "#ffff162d",
+        "secondary": "#ffb50812",
+        "labels": "#ffff162d",
+        "numbers": "#ffffffff",
+        "pattern": 4,
+        "particles": 20,
+        "atlas": "hype-reference-atlas.png",
+        "thanksAtlas": "hype-thanks-atlas.png",
+        "atlasCrop": [
+          48,
+          401,
+          450,
+          202
+        ],
+        "thanksCrop": [
+          80,
+          401,
+          392,
+          224
+        ],
+        "titleBox": [
+          258,
+          44,
+          323,
+          450
+        ],
+        "levelBox": [
+          98,
+          288,
+          83,
+          550
+        ],
+        "barBox": [
+          207,
+          525,
+          280,
+          156
+        ],
+        "timerBox": [
+          655,
+          488,
+          73,
+          250
+        ],
+        "leaderBox": [
+          751,
+          162,
+          200,
+          725
+        ],
+        "percentBox": [
+          513,
+          450,
+          73,
+          344
+        ],
+        "fillEnd": "#ffff450a",
+        "levelColor": "#ffff162d",
+        "levelLabel": "#ffffffff",
+        "headerColor": "#ffff162d",
+        "timeLabel": "#ffff162d"
+      }
+    },
+    {
+      "id": "love",
+      "chatStyle": {
+        "atlas": "love-chat-frame-v1.png",
+        "crop": [
+          0,
+          0,
+          1000,
+          1000
+        ],
+        "insetX": 56,
+        "insetY": 20,
+        "edge": "#ffff4083",
+        "cell": "#ff18040c",
+        "radius": 12,
+        "glow": 2,
+        "bevel": 0,
+        "family": "Bahnschrift SemiCondensed",
+        "cap": 300,
+        "capY": 300,
+        "corner": 112,
+        "preserveCornerAspect": true,
+        "fillBehindRows": false,
+        "padding": 8,
+        "gap": 3
+      },
+      "name": "Love",
+      "eventListStyle": {
+        "family": "Bahnschrift SemiCondensed",
+        "title": "#ffff9fba",
+        "value": "#ffffffff",
+        "titleSize": 16,
+        "valueSize": 20,
+        "backgroundImage": "love-event-list.png",
+        "backgroundBands": 5,
+        "rowCrops": [
+          [
+            0,
+            34,
+            970,
+            178
+          ],
+          [
+            0,
+            213,
+            970,
+            181
+          ],
+          [
+            0,
+            394,
+            970,
+            196
+          ],
+          [
+            0,
+            590,
+            970,
+            186
+          ],
+          [
+            0,
+            776,
+            970,
+            191
+          ]
+        ],
+        "nameStart": 400,
+        "badgeBox": [
+          201,
+          365,
+          170,
+          410
+        ],
+        "titleColors": [
+          "#ffff8fb2",
+          "#ffffbdd6",
+          "#ffff7ba6",
+          "#ffffa5c3",
+          "#ffff668e",
+          "#ffff8fb2"
+        ],
+        "cardRadius": 12,
+        "changeGlow": 95,
+        "changeParticles": 10,
+        "changeSweep": true,
+        "changePattern": 0,
+        "changeParticleShape": 2
+      },
+      "style": {
+        "family": "Segoe UI",
+        "background": "#e6231020",
+        "title": "#ffd9dce6",
+        "value": "#ffffffff",
+        "titleSize": 11,
+        "valueSize": 18,
+        "padding": 18,
+        "gap": 5,
+        "backgroundImage": "love-frame.png",
+        "cards": true,
+        "backgroundCrop": [
+          0,
+          225,
+          1000,
+          465
+        ],
+        "backgroundEdge": 120,
+        "iconImage": "supporter-icons.png",
+        "iconCrop": [
+          0,
+          230,
+          1000,
+          510
+        ],
+        "cardBackground": "#ee0a0d17",
+        "cardEdge": "#bbdb4982",
+        "cardInset": 75,
+        "cardTop": 27,
+        "cardHeight": 47,
+        "titleColors": [
+          "#ffff91c4",
+          "#ffb5ecf0",
+          "#ffcfabf0",
+          "#ffffa4cf",
+          "#ff9eebf3",
+          "#ffb3e6cf"
+        ],
+        "changeGlow": 95,
+        "changeParticles": 10,
+        "changeSweep": true,
+        "changeColors": [
+          "#ffff35b7",
+          "#ffff35b7",
+          "#ffff35b7",
+          "#ffff35b7",
+          "#ffff35b7",
+          "#ffff35b7"
+        ],
+        "changePattern": 0,
+        "changeParticleShape": 2
+      },
+      "alertStyle": {
+        "family": "Bahnschrift SemiCondensed",
+        "energyPattern": 5,
+        "particles": 12,
+        "colors": [
+          "#ffff55c8",
+          "#ffff80d7",
+          "#ffff4dbd",
+          "#ffff65c8",
+          "#ffff8adf",
+          "#ffff60db"
+        ],
+        "headlines": [
+          "FOLLOWER",
+          "SUBSCRIPTION",
+          "SUB",
+          "SUBS PACK",
+          "RAIDED IN",
+          "CHEER"
+        ],
+        "captions": [
+          "NEW",
+          "NEW",
+          "GIFTED",
+          "GIFTED",
+          "WELCOME",
+          "NEW"
+        ],
+        "iconAnimations": [
+          "love-alert-icon-heart.png",
+          "love-alert-icon-crown.png",
+          "love-alert-icon-gift.png",
+          "love-alert-icon-gift-pack.png",
+          "love-alert-icon-raid.png",
+          "love-alert-icon-bits.png"
+        ]
+      },
+      "shoutoutStyle": {
+        "atlas": "love-shoutout.png",
+        "family": "Segoe UI",
+        "name": "#ffffffff",
+        "details": "#ffffffff",
+        "assetBox": [
+          20,
+          248,
+          760,
+          304
+        ],
+        "portraitBox": [
+          91,
+          317,
+          167,
+          164
+        ],
+        "nameBox": [
+          303,
+          355,
+          230,
+          40
+        ],
+        "categoryBox": [
+          347,
+          400,
+          192,
+          22
+        ],
+        "followersBox": [
+          347,
+          435,
+          192,
+          25
+        ],
+        "circular": true,
+        "hexagonal": false,
+        "motionPattern": 5
+      },
+      "hypeStyle": {
+        "family": "Bahnschrift",
+        "titleFamily": "Segoe UI Black",
+        "accent": "#ffff4eb7",
+        "secondary": "#ffff0b65",
+        "labels": "#ffff4eb7",
+        "numbers": "#ffffffff",
+        "pattern": 5,
+        "particles": 20,
+        "atlas": "hype-reference-atlas.png",
+        "thanksAtlas": "hype-thanks-atlas.png",
+        "atlasCrop": [
+          517,
+          400,
+          439,
+          208
+        ],
+        "thanksCrop": [
+          530,
+          402,
+          438,
+          232
+        ],
+        "titleBox": [
+          213,
+          24,
+          329,
+          467
+        ],
+        "levelBox": [
+          62,
+          291,
+          94,
+          545
+        ],
+        "barBox": [
+          197,
+          527,
+          295,
+          158
+        ],
+        "timerBox": [
+          671,
+          485,
+          69,
+          242
+        ],
+        "leaderBox": [
+          767,
+          182,
+          208,
+          721
+        ],
+        "percentBox": [
+          522,
+          485,
+          75,
+          303
+        ],
+        "fillEnd": "#ffff80d3",
+        "levelColor": "#ffffffff",
+        "levelLabel": "#ffffffff",
+        "headerColor": "#ffff4eb7",
+        "timeLabel": "#ffff4eb7"
+      }
+    },
+    {
+      "id": "graffiti",
+      "chatStyle": {
+        "atlas": "graffiti-chat-frame-v1.png",
+        "crop": [
+          0,
+          0,
+          1000,
+          1000
+        ],
+        "insetX": 48,
+        "insetY": 22,
+        "edge": "#ff00d9e8",
+        "accent": "#fff500a8",
+        "cell": "#ff070609",
+        "radius": 5,
+        "glow": 0,
+        "bevel": 0,
+        "family": "Bahnschrift SemiCondensed",
+        "cap": 260,
+        "capY": 260,
+        "corner": 96,
+        "preserveCornerAspect": true,
+        "fillBehindRows": false,
+        "painted": true,
+        "padding": 8,
+        "gap": 3
+      },
+      "name": "Graffiti",
+      "eventListStyle": {
+        "family": "Bahnschrift SemiCondensed",
+        "title": "#ff00dcff",
+        "value": "#ffffffff",
+        "titleSize": 16,
+        "valueSize": 20,
+        "backgroundImage": "graffiti-event-list.png",
+        "backgroundBands": 5,
+        "rowCrops": [
+          [
+            35,
+            15,
+            910,
+            205
+          ],
+          [
+            35,
+            220,
+            910,
+            214
+          ],
+          [
+            35,
+            434,
+            910,
+            200
+          ],
+          [
+            35,
+            634,
+            910,
+            196
+          ],
+          [
+            35,
+            830,
+            910,
+            170
+          ]
+        ],
+        "nameStart": 390,
+        "badgeBox": [
+          205,
+          375,
+          150,
+          320
+        ],
+        "titleColors": [
+          "#ff00dcff",
+          "#ffffa517",
+          "#fff63aff",
+          "#ffffde12",
+          "#ffff218b",
+          "#ff00dcff"
+        ],
+        "cardRadius": 3,
+        "changeGlow": 100,
+        "changeParticles": 12,
+        "changeSweep": true,
+        "changePattern": 6,
+        "changeParticleShape": 3
+      },
+      "style": {
+        "family": "Segoe UI",
+        "background": "#e613171b",
+        "title": "#ffd9dce6",
+        "value": "#ffffffff",
+        "titleSize": 11,
+        "valueSize": 18,
+        "padding": 18,
+        "gap": 5,
+        "backgroundImage": "graffiti-frame.png",
+        "cards": true,
+        "backgroundCrop": [
+          0,
+          220,
+          1000,
+          535
+        ],
+        "backgroundEdge": 120,
+        "iconImage": "supporter-icons.png",
+        "iconCrop": [
+          0,
+          230,
+          1000,
+          510
+        ],
+        "cardBackground": "#ee0a0d17",
+        "cardEdge": "#bb69b6a5",
+        "cardInset": 75,
+        "cardTop": 27,
+        "cardHeight": 47,
+        "titleColors": [
+          "#ffff91c4",
+          "#ffb5ecf0",
+          "#ffcfabf0",
+          "#ffffa4cf",
+          "#ff9eebf3",
+          "#ffb3e6cf"
+        ],
+        "changeGlow": 100,
+        "changeParticles": 12,
+        "changeSweep": true,
+        "changeColors": [
+          "#ffff18b4",
+          "#ffffc21a",
+          "#ffab38ff",
+          "#ffff2594",
+          "#ff00dfff",
+          "#ffffc21a"
+        ],
+        "changePattern": 6,
+        "changeParticleShape": 3
+      },
+      "alertStyle": {
+        "family": "Impact",
+        "energyPattern": 6,
+        "particles": 12,
+        "colors": [
+          "#ffffdc17",
+          "#ffffdf20",
+          "#ffffd51f",
+          "#ffffdc25",
+          "#ffffe428",
+          "#ffffd61c"
+        ],
+        "headlines": [
+          "FOLLOWER",
+          "SUBSCRIPTION",
+          "SUB",
+          "SUBS PACK",
+          "RAIDED IN",
+          "CHEER"
+        ],
+        "captions": [
+          "NEW",
+          "NEW",
+          "GIFTED",
+          "GIFTED",
+          "WELCOME",
+          "NEW"
+        ],
+        "headlineColor": "#ffffdf18",
+        "captionColor": "#ffffffff",
+        "iconAnimations": [
+          "graffiti-alert-icon-heart.png",
+          "graffiti-alert-icon-crown.png",
+          "graffiti-alert-icon-gift.png",
+          "graffiti-alert-icon-gift-pack.png",
+          "graffiti-alert-icon-raid.png",
+          "graffiti-alert-icon-bits.png"
+        ]
+      },
+      "shoutoutStyle": {
+        "atlas": "graffiti-shoutout.png",
+        "family": "Segoe UI",
+        "name": "#ff101015",
+        "details": "#ff101015",
+        "assetBox": [
+          20,
+          186,
+          760,
+          429
+        ],
+        "portraitBox": [
+          87,
+          339,
+          137,
+          157
+        ],
+        "nameBox": [
+          309,
+          378,
+          232,
+          44
+        ],
+        "categoryBox": [
+          358,
+          428,
+          197,
+          30
+        ],
+        "followersBox": [
+          358,
+          470,
+          138,
+          29
+        ],
+        "circular": true,
+        "hexagonal": false,
+        "motionPattern": 6
+      },
+      "hypeStyle": {
+        "family": "Bahnschrift",
+        "titleFamily": "Segoe Print",
+        "accent": "#ffffd615",
+        "secondary": "#ff00dcf2",
+        "labels": "#ffffd615",
+        "numbers": "#ffffffff",
+        "pattern": 6,
+        "particles": 24,
+        "atlas": "hype-reference-atlas.png",
+        "thanksAtlas": "hype-thanks-atlas.png",
+        "atlasCrop": [
+          48,
+          598,
+          450,
+          204
+        ],
+        "thanksCrop": [
+          81,
+          627,
+          393,
+          208
+        ],
+        "titleBox": [
+          239,
+          12,
+          348,
+          500
+        ],
+        "levelBox": [
+          89,
+          333,
+          82,
+          525
+        ],
+        "barBox": [
+          206,
+          543,
+          275,
+          154
+        ],
+        "timerBox": [
+          655,
+          457,
+          73,
+          272
+        ],
+        "leaderBox": [
+          760,
+          235,
+          186,
+          728
+        ],
+        "percentBox": [
+          513,
+          463,
+          73,
+          321
+        ],
+        "fillEnd": "#ffffae12",
+        "levelColor": "#ffffd615",
+        "levelLabel": "#ffffffff",
+        "headerColor": "#ffffd615",
+        "timeLabel": "#ffffd615"
+      }
+    },
+    {
+      "id": "urban-city",
+      "chatStyle": {
+        "atlas": "urban-city-chat-frame-v1.png",
+        "family": "Bahnschrift SemiCondensed",
+        "crop": [
+          0,
+          0,
+          1000,
+          1000
+        ],
+        "insetX": 40,
+        "insetY": 20,
+        "cap": 260,
+        "capY": 260,
+        "corner": 72,
+        "preserveCornerAspect": true,
+        "edge": "#dcce842d",
+        "accent": "#ffad8e65",
+        "cell": "#ff080705",
+        "radius": 3,
+        "glow": 0,
+        "bevel": 4,
+        "padding": 8,
+        "gap": 3,
+        "riveted": true,
+        "fillBehindRows": false
+      },
+      "name": "Urban City",
+      "eventListStyle": {
+        "family": "Bahnschrift SemiCondensed",
+        "title": "#ffffad36",
+        "value": "#ffffffff",
+        "titleSize": 16,
+        "valueSize": 20,
+        "backgroundImage": "urban-city-event-list.png",
+        "backgroundBands": 5,
+        "rowCrops": [
+          [
+            25,
+            218,
+            945,
+            172
+          ],
+          [
+            25,
+            400,
+            945,
+            175
+          ],
+          [
+            25,
+            40,
+            945,
+            155
+          ],
+          [
+            25,
+            597,
+            945,
+            165
+          ],
+          [
+            25,
+            788,
+            945,
+            157
+          ]
+        ],
+        "nameStart": 285,
+        "badgeBox": [
+          135,
+          330,
+          135,
+          340
+        ],
+        "backgroundBox": [
+          155,
+          175,
+          790,
+          650
+        ],
+        "badgeAccent": true,
+        "titleColors": [
+          "#ffffae32",
+          "#ff40caff",
+          "#ffffad36",
+          "#ffffbe46",
+          "#ffff4933",
+          "#ffffae32"
+        ],
+        "cardRadius": 4,
+        "changeGlow": 95,
+        "changeParticles": 10,
+        "changeSweep": true,
+        "changePattern": 7,
+        "changeParticleShape": 1
+      },
+      "style": {
+        "family": "Segoe UI",
+        "background": "#e60f1720",
+        "title": "#ffd9dce6",
+        "value": "#ffffffff",
+        "titleSize": 11,
+        "valueSize": 18,
+        "padding": 16,
+        "gap": 5,
+        "backgroundImage": "urban-city-frame.png",
+        "cards": true,
+        "backgroundCrop": [
+          0,
+          190,
+          1000,
+          475
+        ],
+        "backgroundEdge": 120,
+        "iconImage": "supporter-icons.png",
+        "iconCrop": [
+          0,
+          230,
+          1000,
+          510
+        ],
+        "cardBackground": "#ee0a0d17",
+        "cardEdge": "#bb63849b",
+        "cardInset": 75,
+        "cardTop": 40,
+        "cardHeight": 37,
+        "titleColors": [
+          "#ffff91c4",
+          "#ffb5ecf0",
+          "#ffcfabf0",
+          "#ffffa4cf",
+          "#ff9eebf3",
+          "#ffb3e6cf"
+        ],
+        "changeGlow": 95,
+        "changeParticles": 10,
+        "changeSweep": true,
+        "changeColors": [
+          "#ffffb63b",
+          "#ffffb63b",
+          "#ffffb63b",
+          "#ffffb63b",
+          "#ffffb63b",
+          "#ffffb63b"
+        ],
+        "changePattern": 7,
+        "changeParticleShape": 1
+      },
+      "alertStyle": {
+        "family": "Impact",
+        "energyPattern": 8,
+        "particles": 10,
+        "colors": [
+          "#ffffb82b",
+          "#ffffce35",
+          "#ffffb827",
+          "#ffffce3b",
+          "#ffffa51e",
+          "#ffffbf28"
+        ],
+        "headlines": [
+          "FOLLOWER",
+          "SUBSCRIPTION",
+          "SUB",
+          "SUBS PACK",
+          "RAIDED IN",
+          "CHEER"
+        ],
+        "captions": [
+          "NEW",
+          "NEW",
+          "GIFTED",
+          "GIFTED",
+          "WELCOME",
+          "NEW"
+        ],
+        "headlineColor": "#ffffcf30",
+        "captionColor": "#ffffe0a1",
+        "iconAnimations": [
+          "urban-alert-icon-heart.png",
+          "urban-alert-icon-crown.png",
+          "urban-alert-icon-gift.png",
+          "urban-alert-icon-gift-pack.png",
+          "urban-alert-icon-raid.png",
+          "urban-alert-icon-bits.png"
+        ]
+      },
+      "shoutoutStyle": {
+        "atlas": "urban-city-shoutout.png",
+        "family": "Segoe UI",
+        "name": "#ffffffff",
+        "details": "#ffffffff",
+        "assetBox": [
+          20,
+          186,
+          760,
+          429
+        ],
+        "portraitBox": [
+          144,
+          319,
+          162,
+          157
+        ],
+        "nameBox": [
+          385,
+          346,
+          207,
+          29
+        ],
+        "categoryBox": [
+          414,
+          390,
+          176,
+          23
+        ],
+        "followersBox": [
+          414,
+          429,
+          176,
+          23
+        ],
+        "circular": false,
+        "hexagonal": false,
+        "motionPattern": 8
+      },
+      "hypeStyle": {
+        "family": "Bahnschrift",
+        "titleFamily": "Bahnschrift",
+        "accent": "#ffffb000",
+        "secondary": "#ff00cbff",
+        "labels": "#ffffb000",
+        "numbers": "#ffffffff",
+        "pattern": 8,
+        "particles": 20,
+        "atlas": "hype-reference-atlas.png",
+        "thanksAtlas": "hype-thanks-atlas.png",
+        "atlasCrop": [
+          57,
+          798,
+          434,
+          202
+        ],
+        "thanksCrop": [
+          61,
+          836,
+          429,
+          160
+        ],
+        "titleBox": [
+          230,
+          100,
+          324,
+          281
+        ],
+        "levelBox": [
+          56,
+          281,
+          95,
+          556
+        ],
+        "barBox": [
+          190,
+          500,
+          291,
+          156
+        ],
+        "timerBox": [
+          641,
+          400,
+          87,
+          262
+        ],
+        "leaderBox": [
+          758,
+          162,
+          207,
+          762
+        ],
+        "percentBox": [
+          512,
+          400,
+          76,
+          325
+        ],
+        "fillEnd": "#ffffd637",
+        "levelColor": "#ffffb000",
+        "levelLabel": "#ffffffff",
+        "headerColor": "#ffffb000",
+        "timeLabel": "#ffffb000"
+      }
+    },
+    {
+      "id": "futuristic-hologram",
+      "chatStyle": {
+        "atlas": "futuristic-hologram-chat-frame-v1.png",
+        "family": "Bahnschrift SemiCondensed",
+        "crop": [
+          0,
+          0,
+          1000,
+          1000
+        ],
+        "insetX": 28,
+        "insetY": 18,
+        "cap": 200,
+        "capY": 200,
+        "corner": 56,
+        "preserveCornerAspect": true,
+        "edge": "#ee00cfff",
+        "accent": "#e6ed41ff",
+        "cell": "#ff06152d",
+        "radius": 9,
+        "glow": 3,
+        "bevel": 0,
+        "padding": 8,
+        "gap": 3,
+        "holographic": true,
+        "fillBehindRows": false
+      },
+      "name": "Futuristic Hologram",
+      "eventListStyle": {
+        "family": "Segoe UI",
+        "background": "#ee071323",
+        "title": "#ffe1ffff",
+        "value": "#fff0faff",
+        "titleSize": 16,
+        "valueSize": 20,
+        "backgroundImage": "futuristic-hologram-event-list.png",
+        "backgroundBands": 5,
+        "rowCrops": [
+          [
+            13,
+            235,
+            965,
+            163
+          ],
+          [
+            13,
+            419,
+            965,
+            163
+          ],
+          [
+            13,
+            49,
+            965,
+            167
+          ],
+          [
+            13,
+            600,
+            965,
+            168
+          ],
+          [
+            13,
+            779,
+            965,
+            169
+          ]
+        ],
+        "nameStart": 335,
+        "badgeBox": [
+          170,
+          320,
+          142,
+          420
+        ],
+        "backgroundBox": [
+          325,
+          175,
+          620,
+          650
+        ],
+        "badgeAccent": true,
+        "titleColors": [
+          "#ff20dfff",
+          "#ff39cfff",
+          "#ffad75ff",
+          "#ffff47dc",
+          "#ff858aff",
+          "#ff20dfff"
+        ],
+        "cardRadius": 8,
+        "changeGlow": 100,
+        "changeParticles": 10,
+        "changeSweep": true,
+        "changePattern": 5,
+        "changeParticleShape": 1
+      },
+      "style": {
+        "family": "Segoe UI",
+        "background": "#d90b1b26",
+        "title": "#ffbdffff",
+        "value": "#ffe1ffff",
+        "titleSize": 11,
+        "valueSize": 18,
+        "padding": 18,
+        "gap": 5,
+        "backgroundImage": "futuristic-hologram-frame.png",
+        "cards": true,
+        "backgroundCrop": [
+          0,
+          265,
+          1000,
+          465
+        ],
+        "backgroundEdge": 120,
+        "iconImage": "supporter-icons-cyan.png",
+        "iconCrop": [
+          0,
+          230,
+          1000,
+          510
+        ],
+        "cardBackground": "#ee0a0d17",
+        "cardEdge": "#bb32dbe5",
+        "cardInset": 75,
+        "cardTop": 27,
+        "cardHeight": 47,
+        "changeGlow": 100,
+        "changeParticles": 12,
+        "changeSweep": true,
+        "changeColors": [
+          "#ff00e5ff",
+          "#ff00e5ff",
+          "#ff00e5ff",
+          "#ff00e5ff",
+          "#ff00e5ff",
+          "#ff00e5ff"
+        ],
+        "changePattern": 5,
+        "changeParticleShape": 1
+      },
+      "alertStyle": {
+        "family": "Bahnschrift",
+        "energyPattern": 9,
+        "particles": 10,
+        "colors": [
+          "#ff20e9ff",
+          "#ffac79ff",
+          "#ffff4de0",
+          "#ff6e8bff",
+          "#ff38dfff",
+          "#ffbc65ff"
+        ],
+        "headlines": [
+          "FOLLOWER",
+          "SUBSCRIPTION",
+          "SUB",
+          "SUBS PACK",
+          "RAIDED IN",
+          "CHEER"
+        ],
+        "captions": [
+          "NEW",
+          "NEW",
+          "GIFTED",
+          "GIFTED",
+          "WELCOME",
+          "NEW"
+        ],
+        "headlineColor": "#ffdcfaff",
+        "captionColor": "#ff9deeff",
+        "iconAnimations": [
+          "hologram-alert-icon-heart.png",
+          "hologram-alert-icon-crown.png",
+          "hologram-alert-icon-gift.png",
+          "hologram-alert-icon-gift-pack.png",
+          "hologram-alert-icon-raid.png",
+          "hologram-alert-icon-bits.png"
+        ]
+      },
+      "shoutoutStyle": {
+        "atlas": "futuristic-hologram-shoutout.png",
+        "family": "Segoe UI",
+        "name": "#ffffffff",
+        "details": "#ff63efff",
+        "assetBox": [
+          20,
+          247,
+          760,
+          307
+        ],
+        "portraitBox": [
+          102,
+          332,
+          168,
+          162
+        ],
+        "nameBox": [
+          300,
+          333,
+          183,
+          31
+        ],
+        "categoryBox": [
+          338,
+          374,
+          147,
+          25
+        ],
+        "followersBox": [
+          338,
+          412,
+          147,
+          26
+        ],
+        "circular": true,
+        "hexagonal": false,
+        "motionPattern": 9
+      },
+      "hypeStyle": {
+        "family": "Bahnschrift",
+        "titleFamily": "Bahnschrift",
+        "accent": "#ff00d8ff",
+        "secondary": "#ff166dff",
+        "labels": "#ff00d8ff",
+        "numbers": "#ffffffff",
+        "pattern": 9,
+        "particles": 18,
+        "atlas": "hype-reference-atlas.png",
+        "thanksAtlas": "hype-thanks-atlas.png",
+        "atlasCrop": [
+          519,
+          798,
+          438,
+          202
+        ],
+        "thanksCrop": [
+          530,
+          830,
+          440,
+          168
+        ],
+        "titleBox": [
+          255,
+          75,
+          303,
+          269
+        ],
+        "levelBox": [
+          73,
+          281,
+          76,
+          556
+        ],
+        "barBox": [
+          209,
+          469,
+          290,
+          162
+        ],
+        "timerBox": [
+          664,
+          381,
+          71,
+          269
+        ],
+        "leaderBox": [
+          764,
+          162,
+          209,
+          744
+        ],
+        "percentBox": [
+          529,
+          388,
+          75,
+          319
+        ],
+        "fillEnd": "#ff167eff",
+        "levelColor": "#ff00d8ff",
+        "levelLabel": "#ffffffff",
+        "headerColor": "#ff00d8ff",
+        "timeLabel": "#ff00d8ff"
+      }
+    }
+  ]
+}

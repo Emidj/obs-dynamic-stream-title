@@ -2,7 +2,7 @@
 
 An OBS Studio dock for managing Twitch stream titles, categories and tags, with optional raid and Hype Train automation. Developed for Windows x64 and OBS 32.x.
 
-**Project version: 1.0.0.** The GitHub repository currently provides this overview and example images. Source code, installers and downloadable releases have not yet been uploaded here.
+**Official stable release: 1.0.0.** [Download the Windows installer and release files](https://github.com/Emidj/obs-dynamic-stream-title/releases/tag/v1.0.0). Source code, build instructions and example images are included in this repository.
 
 ## Features
 
@@ -38,9 +38,13 @@ Twitch does not provide an atomic read-and-update operation: an external edit or
 
 ## Installation and compatibility
 
-The local 1.0.0 distribution includes the plugin, a Windows installer, Twitch Core and an illustrated guide. The installer is unsigned. Close OBS before installing; standard Program Files installation requests administrator permission.
+The 1.0.0 release includes the plugin, a Windows installer, Twitch Core and an illustrated guide. The installer is unsigned. Close OBS before installing; standard Program Files installation requests administrator permission.
 
 Title requires Twitch Core >=1.1.0 and <2.0.0, ABI 6. The installer preserves newer compatible Core versions, checks consumers before updating and keeps Core when another consumer still needs it. Existing scenes, presets, configuration and credentials are preserved.
+
+## Building from source
+
+See [BUILD.md](BUILD.md) for the Windows toolchain, dependencies, build, tests and installer packaging. The integrated Overlay sources needed to build Twitch Core are included.
 
 ## Validation and limits
 
@@ -50,6 +54,6 @@ Portable OBS reported one residual allocation on shutdown with both plugins, com
 
 ## License
 
-Project code is declared **GPL-2.0-or-later**. See [LICENSE](LICENSE). Third-party components retain their own terms; their notices must accompany future source and binary distributions.
+Project code is declared **GPL-2.0-or-later**. See [LICENSE](LICENSE). Third-party components retain their own terms. See [THIRD-PARTY-NOTICES.md](THIRD-PARTY-NOTICES.md), the bundled Unicode license and the retained Overlay artwork notices.
 
 a plugin from [DjEmiMas](https://discord.gg/dhcqZPDYh)

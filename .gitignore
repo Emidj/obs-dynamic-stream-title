@@ -1,0 +1,12 @@
+/build/
+/work/
+/dist/
+/output/
+/tmp/
+/.vs/
+*.user
+*.pdb
+*.dmp
+.env
+.env.*
+*session.bin

@@ -1,0 +1,8 @@
+Use case: stylized-concept
+Asset type: transparent production border artwork for the Graffiti style of a native OBS chat overlay.
+Primary request: create one square paint-splatter chat frame with an entirely transparent center and exterior, adapting the user's seventh Graffiti chat reference.
+Scene/backdrop: none, real alpha transparency.
+Subject: a thin rectangular frame composed of rough dry-brush streaks, sprayed paint flecks, small drips and energetic paint splashes in saturated cyan, magenta and golden yellow. Mostly dark ink under the bright paint, organic handmade street-art texture, no neon rails.
+Composition/framing: front-facing square frame fully inside canvas, large empty rectangular opening. The inner opening spans approximately 12% to 88% of the canvas on both axes. Paint only around the perimeter; concentrate larger splashes at corners but retain textured straight narrow rails at the midpoint of each side for nine-slice scaling. Corners are organic and slightly rounded. Crisp isolated small speckles, plenty of transparent negative space. Allow safety margin at the exterior so nothing is cut off.
+Style/medium: vivid detailed spray paint and brush artwork matching a streamer Graffiti overlay, clean readable content area.
+Constraints: NO text, letters, numbers, logos, icons, faces, avatars, badges, emotes or message rows. NO brick wall, city, scenic backdrop, solid center, grid/checkerboard printed in pixels, rectangle panel fill, glowing halo or diffuse shadow. Center and exterior must be alpha-transparent. One frame only; no mockup or contact sheet. Preserve intense cyan/magenta/yellow painted texture as artwork, not a metallic/generic futuristic bezel.

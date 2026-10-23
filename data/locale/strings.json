@@ -1,0 +1,1073 @@
+{
+  "Base Title": {
+    "es": "Título base",
+    "en": "Base Title",
+    "it": "Titolo base",
+    "fr": "Titre de base",
+    "de": "Basistitel"
+  },
+  "Category": {
+    "es": "Categoría",
+    "en": "Category",
+    "it": "Categoria",
+    "fr": "Catégorie",
+    "de": "Kategorie"
+  },
+  "Tags": {
+    "es": "Etiquetas",
+    "en": "Tags",
+    "it": "Tag",
+    "fr": "Tags",
+    "de": "Tags"
+  },
+  "Automatic Events": {
+    "es": "Eventos automáticos",
+    "en": "Automatic Events",
+    "it": "Eventi automatici",
+    "fr": "Événements automatiques",
+    "de": "Automatische Ereignisse"
+  },
+  "Title Preview": {
+    "es": "Vista previa del título",
+    "en": "Title Preview",
+    "it": "Anteprima del titolo",
+    "fr": "Aperçu du titre",
+    "de": "Titelvorschau"
+  },
+  "Apply to Twitch": {
+    "es": "Aplicar en Twitch",
+    "en": "Apply to Twitch",
+    "it": "Applica su Twitch",
+    "fr": "Appliquer sur Twitch",
+    "de": "Auf Twitch anwenden"
+  },
+  "Borrador manual": {
+    "es": "Borrador manual",
+    "en": "Manual draft",
+    "it": "Bozza manuale",
+    "fr": "Brouillon manuel",
+    "de": "Manueller Entwurf"
+  },
+  "Escribe el título base…": {
+    "es": "Escribe el título base…",
+    "en": "Enter the base title…",
+    "it": "Scrivi il titolo base…",
+    "fr": "Saisissez le titre de base…",
+    "de": "Basistitel eingeben…"
+  },
+  "☺  Añadir emoji": {
+    "es": "☺  Añadir emoji",
+    "en": "☺  Add emoji",
+    "it": "☺  Aggiungi emoji",
+    "fr": "☺  Ajouter un emoji",
+    "de": "☺  Emoji hinzufügen"
+  },
+  "Categorías de muestra; sin búsqueda en Twitch.": {
+    "es": "Categorías de muestra; sin búsqueda en Twitch.",
+    "en": "Sample categories; no Twitch search.",
+    "it": "Categorie di esempio; nessuna ricerca su Twitch.",
+    "fr": "Catégories de démonstration ; aucune recherche Twitch.",
+    "de": "Beispielkategorien; keine Twitch-Suche."
+  },
+  "Probar eventos simulados": {
+    "es": "Probar eventos simulados",
+    "en": "Test simulated events",
+    "it": "Prova eventi simulati",
+    "fr": "Tester des événements simulés",
+    "de": "Simulierte Ereignisse testen"
+  },
+  "Hype activo": {
+    "es": "Hype activo",
+    "en": "Hype active",
+    "it": "Hype attivo",
+    "fr": "Hype actif",
+    "de": "Hype aktiv"
+  },
+  "Composición automática · base aplicada": {
+    "es": "Composición automática · base aplicada",
+    "en": "Automatic composition · applied base",
+    "it": "Composizione automatica · base applicata",
+    "fr": "Composition automatique · base appliquée",
+    "de": "Automatische Zusammenstellung · angewendete Basis"
+  },
+  "Resultado aplicado · simulación": {
+    "es": "Resultado aplicado · simulación",
+    "en": "Applied result · simulation",
+    "it": "Risultato applicato · simulazione",
+    "fr": "Résultat appliqué · simulation",
+    "de": "Angewendetes Ergebnis · Simulation"
+  },
+  "Simulación local: no envía datos a Twitch.": {
+    "es": "Simulación local: no envía datos a Twitch.",
+    "en": "Local simulation: no data is sent to Twitch.",
+    "it": "Simulazione locale: nessun dato inviato a Twitch.",
+    "fr": "Simulation locale : aucune donnée envoyée à Twitch.",
+    "de": "Lokale Simulation: keine Datenübertragung an Twitch."
+  },
+  "Editar o insertar emojis no aplica cambios. Los eventos usan la base aplicada de la demo.": {
+    "es": "Editar o insertar emojis no aplica cambios. Los eventos usan la base aplicada de la demo.",
+    "en": "Editing or inserting emojis does not apply changes. Events use the applied demo base.",
+    "it": "Modificare o inserire emoji non applica modifiche. Gli eventi usano la base applicata della demo.",
+    "fr": "Modifier ou insérer des emojis n'applique rien. Les événements utilisent la base appliquée de la démo.",
+    "de": "Bearbeiten oder Einfügen von Emojis wendet nichts an. Ereignisse verwenden die angewendete Demo-Basis."
+  },
+  "Conectar demo": {
+    "es": "Conectar demo",
+    "en": "Connect demo",
+    "it": "Connetti demo",
+    "fr": "Connecter la démo",
+    "de": "Demo verbinden"
+  },
+  "Desconectar demo": {
+    "es": "Desconectar demo",
+    "en": "Disconnect demo",
+    "it": "Disconnetti demo",
+    "fr": "Déconnecter la démo",
+    "de": "Demo trennen"
+  },
+  "No se pudo iniciar el envío. El borrador se conserva.": {
+    "es": "No se pudo iniciar el envío. El borrador se conserva.",
+    "en": "Could not start sending. Draft preserved.",
+    "it": "Impossibile avviare l'invio. Bozza conservata.",
+    "fr": "Impossible de lancer l'envoi. Brouillon conservé.",
+    "de": "Senden konnte nicht gestartet werden. Entwurf bleibt erhalten."
+  },
+  "El borrador está vacío.": {
+    "es": "El borrador está vacío.",
+    "en": "The draft is empty.",
+    "it": "La bozza è vuota.",
+    "fr": "Le brouillon est vide.",
+    "de": "Der Entwurf ist leer."
+  },
+  "Base: %1/140 · título final: %2/140": {
+    "es": "Base: %1/140 · título final: %2/140",
+    "en": "Base: %1/140 · final title: %2/140",
+    "it": "Base: %1/140 · titolo finale: %2/140",
+    "fr": "Base : %1/140 · titre final : %2/140",
+    "de": "Basis: %1/140 · endgültiger Titel: %2/140"
+  },
+  " · bloques omitidos por espacio": {
+    "es": " · bloques omitidos por espacio",
+    "en": " · blocks omitted: no space",
+    "it": " · blocchi omessi per spazio",
+    "fr": " · blocs omis faute de place",
+    "de": " · Blöcke wegen Platzmangel ausgelassen"
+  },
+  "Esperando base aplicada…": {
+    "es": "Esperando base aplicada…",
+    "en": "Waiting for applied base…",
+    "it": "In attesa della base applicata…",
+    "fr": "En attente de la base appliquée…",
+    "de": "Warten auf angewendete Basis…"
+  },
+  " · Hype omitido por espacio": {
+    "es": " · Hype omitido por espacio",
+    "en": " · Hype omitted: no space",
+    "it": " · Hype omesso per spazio",
+    "fr": " · Hype omis faute de place",
+    "de": " · Hype wegen Platzmangel ausgelassen"
+  },
+  " · %1 raiders sin espacio": {
+    "es": " · %1 raiders sin espacio",
+    "en": " · no space for %1 raiders",
+    "it": " · spazio insufficiente per %1 raider",
+    "fr": " · pas de place pour %1 raiders",
+    "de": " · kein Platz für %1 Raider"
+  },
+  " · %1 usuarios no válidos": {
+    "es": " · %1 usuarios no válidos",
+    "en": " · %1 invalid users",
+    "it": " · %1 utenti non validi",
+    "fr": " · %1 utilisateurs invalides",
+    "de": " · %1 ungültige Benutzer"
+  },
+  "%1/140 caracteres": {
+    "es": "%1/140 caracteres",
+    "en": "%1/140 characters",
+    "it": "%1/140 caratteri",
+    "fr": "%1/140 caractères",
+    "de": "%1/140 Zeichen"
+  },
+  "Cambios pendientes · solo Apply los aplica en la demo.": {
+    "es": "Cambios pendientes · solo Apply los aplica en la demo.",
+    "en": "Pending changes · only Apply updates the demo.",
+    "it": "Modifiche in sospeso · solo Applica aggiorna la demo.",
+    "fr": "Modifications en attente · seul Appliquer met à jour la démo.",
+    "de": "Ausstehende Änderungen · nur Anwenden aktualisiert die Demo."
+  },
+  "Sin cambios manuales pendientes · demo local.": {
+    "es": "Sin cambios manuales pendientes · demo local.",
+    "en": "No pending manual changes · local demo.",
+    "it": "Nessuna modifica manuale in sospeso · demo locale.",
+    "fr": "Aucune modification manuelle en attente · démo locale.",
+    "de": "Keine ausstehenden manuellen Änderungen · lokale Demo."
+  },
+  "Lectura de Twitch · publicación disponible en la fase 5.": {
+    "es": "Lectura de Twitch · publicación disponible en la fase 5.",
+    "en": "Twitch read mode · publishing available in phase 5.",
+    "it": "Lettura Twitch · pubblicazione disponibile nella fase 5.",
+    "fr": "Lecture Twitch · publication disponible en phase 5.",
+    "de": "Twitch-Lesemodus · Veröffentlichung ab Phase 5 verfügbar."
+  },
+  "Actualizando los bloques automáticos del título aplicado…": {
+    "es": "Actualizando los bloques automáticos del título aplicado…",
+    "en": "Updating automatic blocks of the applied title…",
+    "it": "Aggiornamento dei blocchi automatici del titolo applicato…",
+    "fr": "Mise à jour des blocs automatiques du titre appliqué…",
+    "de": "Automatische Blöcke des angewendeten Titels werden aktualisiert…"
+  },
+  "Enviando a Twitch… Los cambios nuevos quedarán pendientes.": {
+    "es": "Enviando a Twitch… Los cambios nuevos quedarán pendientes.",
+    "en": "Sending to Twitch… New edits will remain pending.",
+    "it": "Invio a Twitch… Le nuove modifiche resteranno in sospeso.",
+    "fr": "Envoi vers Twitch… Les nouvelles modifications resteront en attente.",
+    "de": "Wird an Twitch gesendet… Neue Änderungen bleiben ausstehend."
+  },
+  "Publicación bloqueada. Los eventos se conservan sin enviar.": {
+    "es": "Publicación bloqueada. Los eventos se conservan sin enviar.",
+    "en": "Publishing locked. Events are retained without sending.",
+    "it": "Pubblicazione bloccata. Gli eventi vengono conservati senza invio.",
+    "fr": "Publication verrouillée. Les événements sont conservés sans envoi.",
+    "de": "Veröffentlichung gesperrt. Ereignisse werden ohne Senden gespeichert."
+  },
+  "Esperando lectura del canal…": {
+    "es": "Esperando lectura del canal…",
+    "en": "Waiting for channel information…",
+    "it": "In attesa dei dati del canale…",
+    "fr": "En attente des informations de la chaîne…",
+    "de": "Warten auf Kanalinformationen…"
+  },
+  "Cambios pendientes · solo Apply publica.": {
+    "es": "Cambios pendientes · solo Apply publica.",
+    "en": "Pending edits · only Apply publishes them.",
+    "it": "Modifiche in sospeso · solo Applica le pubblica.",
+    "fr": "Modifications en attente · seul Appliquer les publie.",
+    "de": "Ausstehende Änderungen · nur Anwenden veröffentlicht sie."
+  },
+  "Sin cambios pendientes.": {
+    "es": "Sin cambios pendientes.",
+    "en": "No pending edits.",
+    "it": "Nessuna modifica in sospeso.",
+    "fr": "Aucune modification en attente.",
+    "de": "Keine ausstehenden Änderungen."
+  },
+  "● Cuenta demo conectada · sin red": {
+    "es": "● Cuenta demo conectada · sin red",
+    "en": "● Demo account connected · no network",
+    "it": "● Account demo connesso · senza rete",
+    "fr": "● Compte démo connecté · sans réseau",
+    "de": "● Demokonto verbunden · ohne Netzwerk"
+  },
+  "○ Sin conectar · simulación local": {
+    "es": "○ Sin conectar · simulación local",
+    "en": "○ Disconnected · local simulation",
+    "it": "○ Disconnesso · simulazione locale",
+    "fr": "○ Déconnecté · simulation locale",
+    "de": "○ Nicht verbunden · lokale Simulation"
+  },
+  "Información actual del canal": {
+    "es": "Información actual del canal",
+    "en": "Current channel information",
+    "it": "Informazioni attuali del canale",
+    "fr": "Informations actuelles de la chaîne",
+    "de": "Aktuelle Kanalinformationen"
+  },
+  "La lectura no modifica tu borrador. Apply y los eventos se habilitarán en sus fases correspondientes.": {
+    "es": "La lectura no modifica tu borrador. Apply y los eventos se habilitarán en sus fases correspondientes.",
+    "en": "Reading does not change your draft. Apply and events unlock in their development phases.",
+    "it": "La lettura non modifica la bozza. Applica ed eventi saranno disponibili nelle rispettive fasi.",
+    "fr": "La lecture ne modifie pas le brouillon. Appliquer et les événements seront activés dans leurs phases.",
+    "de": "Das Lesen ändert den Entwurf nicht. Anwenden und Ereignisse werden in ihren Entwicklungsphasen aktiviert."
+  },
+  "Conecta para leer el canal. No se publican cambios.": {
+    "es": "Conecta para leer el canal. No se publican cambios.",
+    "en": "Connect to read the channel. No changes are published.",
+    "it": "Connetti per leggere il canale. Nessuna modifica pubblicata.",
+    "fr": "Connectez-vous pour lire la chaîne. Aucune modification publiée.",
+    "de": "Verbinden, um den Kanal zu lesen. Es wird nichts veröffentlicht."
+  },
+  "Publicación pendiente de la fase 5.": {
+    "es": "Publicación pendiente de la fase 5.",
+    "en": "Publishing planned for phase 5.",
+    "it": "Pubblicazione prevista nella fase 5.",
+    "fr": "Publication prévue en phase 5.",
+    "de": "Veröffentlichung für Phase 5 vorgesehen."
+  },
+  "Twitch Core disponible · sin conectar": {
+    "es": "Twitch Core disponible · sin conectar",
+    "en": "Twitch Core available · disconnected",
+    "it": "Twitch Core disponibile · disconnesso",
+    "fr": "Twitch Core disponible · déconnecté",
+    "de": "Twitch Core verfügbar · nicht verbunden"
+  },
+  "Autorizar edición del canal": {
+    "es": "Autorizar edición del canal",
+    "en": "Authorize channel editing",
+    "it": "Autorizza modifica del canale",
+    "fr": "Autoriser la modification de la chaîne",
+    "de": "Kanalbearbeitung autorisieren"
+  },
+  "Desconectar Twitch (cuenta compartida)": {
+    "es": "Desconectar Twitch (cuenta compartida)",
+    "en": "Disconnect Twitch (shared account)",
+    "it": "Disconnetti Twitch (account condiviso)",
+    "fr": "Déconnecter Twitch (compte partagé)",
+    "de": "Twitch trennen (gemeinsames Konto)"
+  },
+  "Conectar a Twitch": {
+    "es": "Conectar a Twitch",
+    "en": "Connect to Twitch",
+    "it": "Connetti a Twitch",
+    "fr": "Se connecter à Twitch",
+    "de": "Mit Twitch verbinden"
+  },
+  "Sin categoría": {
+    "es": "Sin categoría",
+    "en": "No category",
+    "it": "Nessuna categoria",
+    "fr": "Sans catégorie",
+    "de": "Keine Kategorie"
+  },
+  "Buscar categoría en Twitch": {
+    "es": "Buscar categoría en Twitch",
+    "en": "Search Twitch categories",
+    "it": "Cerca categoria su Twitch",
+    "fr": "Chercher une catégorie sur Twitch",
+    "de": "Twitch-Kategorie suchen"
+  },
+  "Escribe el nombre de una categoría para buscar.": {
+    "es": "Escribe el nombre de una categoría para buscar.",
+    "en": "Enter a category name to search.",
+    "it": "Scrivi il nome di una categoria da cercare.",
+    "fr": "Saisissez le nom d'une catégorie à rechercher.",
+    "de": "Einen Kategorienamen für die Suche eingeben."
+  },
+  "Buscando categorías…": {
+    "es": "Buscando categorías…",
+    "en": "Searching categories…",
+    "it": "Ricerca delle categorie…",
+    "fr": "Recherche de catégories…",
+    "de": "Kategorien werden gesucht…"
+  },
+  "No se pudo iniciar la búsqueda. Inténtalo de nuevo.": {
+    "es": "No se pudo iniciar la búsqueda. Inténtalo de nuevo.",
+    "en": "Could not start the search. Try again.",
+    "it": "Impossibile avviare la ricerca. Riprova.",
+    "fr": "Impossible de lancer la recherche. Réessayez.",
+    "de": "Suche konnte nicht gestartet werden. Erneut versuchen."
+  },
+  "Escribe un nombre, busca y selecciona un resultado.": {
+    "es": "Escribe un nombre, busca y selecciona un resultado.",
+    "en": "Enter a name, search and select a result.",
+    "it": "Scrivi un nome, cerca e seleziona un risultato.",
+    "fr": "Saisissez un nom, cherchez et choisissez un résultat.",
+    "de": "Namen eingeben, suchen und ein Ergebnis wählen."
+  },
+  "Editar o insertar emojis nunca publica. Solo Apply envía el borrador.": {
+    "es": "Editar o insertar emojis nunca publica. Solo Apply envía el borrador.",
+    "en": "Editing or inserting emojis never publishes. Only Apply sends the draft.",
+    "it": "Modificare o inserire emoji non pubblica mai. Solo Applica invia la bozza.",
+    "fr": "Modifier ou insérer des emojis ne publie jamais. Seul Appliquer envoie le brouillon.",
+    "de": "Bearbeiten oder Einfügen von Emojis veröffentlicht nichts. Nur Anwenden sendet den Entwurf."
+  },
+  "Publica título, categoría y tags en la cuenta conectada.": {
+    "es": "Publica título, categoría y tags en la cuenta conectada.",
+    "en": "Publish title, category and tags to the connected account.",
+    "it": "Pubblica titolo, categoria e tag sull'account connesso.",
+    "fr": "Publier le titre, la catégorie et les tags sur le compte connecté.",
+    "de": "Titel, Kategorie und Tags im verbundenen Konto veröffentlichen."
+  },
+  "Cambio externo leído. Base actualizada y borrador conservado; revisa antes de desbloquear.": {
+    "es": "Cambio externo leído. Base actualizada y borrador conservado; revisa antes de desbloquear.",
+    "en": "External change loaded. Base updated, draft preserved; review before unlocking.",
+    "it": "Modifica esterna letta. Base aggiornata e bozza conservata; controlla prima di sbloccare.",
+    "fr": "Modification externe chargée. Base actualisée, brouillon conservé ; vérifiez avant de déverrouiller.",
+    "de": "Externe Änderung geladen. Basis aktualisiert, Entwurf erhalten; vor dem Entsperren prüfen."
+  },
+  "No se encontraron categorías.": {
+    "es": "No se encontraron categorías.",
+    "en": "No categories found.",
+    "it": "Nessuna categoria trovata.",
+    "fr": "Aucune catégorie trouvée.",
+    "de": "Keine Kategorien gefunden."
+  },
+  "Selecciona un resultado de la lista.": {
+    "es": "Selecciona un resultado de la lista.",
+    "en": "Select a result from the list.",
+    "it": "Seleziona un risultato dall'elenco.",
+    "fr": "Sélectionnez un résultat dans la liste.",
+    "de": "Ein Ergebnis aus der Liste auswählen."
+  },
+  "Cambios publicados en Twitch.": {
+    "es": "Cambios publicados en Twitch.",
+    "en": "Changes published on Twitch.",
+    "it": "Modifiche pubblicate su Twitch.",
+    "fr": "Modifications publiées sur Twitch.",
+    "de": "Änderungen auf Twitch veröffentlicht."
+  },
+  "Cambios publicados. Hay cambios nuevos pendientes.": {
+    "es": "Cambios publicados. Hay cambios nuevos pendientes.",
+    "en": "Changes published. New edits remain pending.",
+    "it": "Modifiche pubblicate. Nuove modifiche ancora in sospeso.",
+    "fr": "Modifications publiées. De nouvelles modifications restent en attente.",
+    "de": "Änderungen veröffentlicht. Neue Änderungen bleiben ausstehend."
+  },
+  "Cambio externo detectado. Borrador conservado; recarga el canal antes de desbloquear.": {
+    "es": "Cambio externo detectado. Borrador conservado; recarga el canal antes de desbloquear.",
+    "en": "External change detected. Draft preserved; reload the channel before unlocking.",
+    "it": "Rilevata modifica esterna. Bozza conservata; ricarica il canale prima di sbloccare.",
+    "fr": "Modification externe détectée. Brouillon conservé ; rechargez la chaîne avant de déverrouiller.",
+    "de": "Externe Änderung erkannt. Entwurf erhalten; Kanal vor dem Entsperren neu laden."
+  },
+  "Twitch no confirmó la publicación (HTTP %1). Borrador conservado; comprueba el canal antes de reintentar.": {
+    "es": "Twitch no confirmó la publicación (HTTP %1). Borrador conservado; comprueba el canal antes de reintentar.",
+    "en": "Twitch did not confirm publication (HTTP %1). Draft preserved; check the channel before retrying.",
+    "it": "Twitch non ha confermato la pubblicazione (HTTP %1). Bozza conservata; controlla il canale prima di riprovare.",
+    "fr": "Twitch n'a pas confirmé la publication (HTTP %1). Brouillon conservé ; vérifiez la chaîne avant de réessayer.",
+    "de": "Twitch hat die Veröffentlichung nicht bestätigt (HTTP %1). Entwurf erhalten; Kanal vor erneutem Versuch prüfen."
+  },
+  "Al recibir un raid, actualiza solo el título aplicado. No publica tu borrador. Desactivar retira el bloque de esta sesión.": {
+    "es": "Al recibir un raid, actualiza solo el título aplicado. No publica tu borrador. Desactivar retira el bloque de esta sesión.",
+    "en": "A raid updates only the applied title. Your draft is not published. Disabling removes this session's block.",
+    "it": "Un raid aggiorna solo il titolo applicato. La bozza non viene pubblicata. Disattivare rimuove il blocco della sessione.",
+    "fr": "Un raid met à jour uniquement le titre appliqué. Le brouillon n'est pas publié. Désactiver retire le bloc de cette session.",
+    "de": "Ein Raid aktualisiert nur den angewendeten Titel. Der Entwurf wird nicht veröffentlicht. Deaktivieren entfernt den Sitzungsblock."
+  },
+  "Hay un bloque Raiders anterior sin identificar. Retíralo de la base y pulsa Apply antes de activar.": {
+    "es": "Hay un bloque Raiders anterior sin identificar. Retíralo de la base y pulsa Apply antes de activar.",
+    "en": "An unidentified previous Raiders block exists. Remove it from the base and Apply before enabling.",
+    "it": "Esiste un blocco Raiders precedente non identificato. Rimuovilo dalla base e premi Applica prima di attivare.",
+    "fr": "Un ancien bloc Raiders non identifié existe. Retirez-le de la base et cliquez sur Appliquer avant d'activer.",
+    "de": "Ein unbekannter älterer Raiders-Block ist vorhanden. Aus der Basis entfernen und vor dem Aktivieren Anwenden drücken."
+  },
+  "Añade o retira el prefijo al comenzar o terminar un Hype Train observado. No publica el borrador.": {
+    "es": "Añade o retira el prefijo al comenzar o terminar un Hype Train observado. No publica el borrador.",
+    "en": "Add or remove the prefix when an observed Hype Train begins or ends. Does not publish the draft.",
+    "it": "Aggiunge o rimuove il prefisso all'inizio o alla fine di un Hype Train osservato. Non pubblica la bozza.",
+    "fr": "Ajoute ou retire le préfixe au début ou à la fin d'un Hype Train observé. Ne publie pas le brouillon.",
+    "de": "Fügt das Präfix beim beobachteten Start oder Ende eines Hype Trains hinzu oder entfernt es. Veröffentlicht den Entwurf nicht."
+  },
+  "Hay un prefijo Hype anterior sin identificar. Retíralo de la base y pulsa Apply antes de activar.": {
+    "es": "Hay un prefijo Hype anterior sin identificar. Retíralo de la base y pulsa Apply antes de activar.",
+    "en": "An unidentified previous Hype prefix exists. Remove it from the base and Apply before enabling.",
+    "it": "Esiste un prefisso Hype precedente non identificato. Rimuovilo dalla base e premi Applica prima di attivare.",
+    "fr": "Un ancien préfixe Hype non identifié existe. Retirez-le de la base et cliquez sur Appliquer avant d'activer.",
+    "de": "Ein unbekanntes älteres Hype-Präfix ist vorhanden. Aus der Basis entfernen und vor dem Aktivieren Anwenden drücken."
+  },
+  "Eventos automáticos pausados: no se pudo iniciar el envío. Reconecta o confirma la base con Apply.": {
+    "es": "Eventos automáticos pausados: no se pudo iniciar el envío. Reconecta o confirma la base con Apply.",
+    "en": "Automatic events paused: could not send. Reconnect or confirm the base with Apply.",
+    "it": "Eventi automatici in pausa: invio non avviato. Riconnetti o conferma la base con Applica.",
+    "fr": "Événements automatiques en pause : envoi impossible. Reconnectez-vous ou confirmez la base avec Appliquer.",
+    "de": "Automatische Ereignisse pausiert: Senden nicht gestartet. Neu verbinden oder Basis mit Anwenden bestätigen."
+  },
+  "Bloques automáticos actualizados. El borrador manual no se publicó.": {
+    "es": "Bloques automáticos actualizados. El borrador manual no se publicó.",
+    "en": "Automatic blocks updated. The manual draft was not published.",
+    "it": "Blocchi automatici aggiornati. La bozza manuale non è stata pubblicata.",
+    "fr": "Blocs automatiques actualisés. Le brouillon manuel n'a pas été publié.",
+    "de": "Automatische Blöcke aktualisiert. Der manuelle Entwurf wurde nicht veröffentlicht."
+  },
+  "Cambio externo detectado. Eventos bloqueados; recarga el canal antes de desbloquear.": {
+    "es": "Cambio externo detectado. Eventos bloqueados; recarga el canal antes de desbloquear.",
+    "en": "External change detected. Events locked; reload the channel before unlocking.",
+    "it": "Rilevata modifica esterna. Eventi bloccati; ricarica il canale prima di sbloccare.",
+    "fr": "Modification externe détectée. Événements verrouillés ; rechargez la chaîne avant de déverrouiller.",
+    "de": "Externe Änderung erkannt. Ereignisse gesperrt; Kanal vor dem Entsperren neu laden."
+  },
+  "Eventos automáticos pausados (HTTP %1). Reconecta o confirma la base con Apply; no se reintentará automáticamente.": {
+    "es": "Eventos automáticos pausados (HTTP %1). Reconecta o confirma la base con Apply; no se reintentará automáticamente.",
+    "en": "Automatic events paused (HTTP %1). Reconnect or confirm the base with Apply; no automatic retry.",
+    "it": "Eventi automatici in pausa (HTTP %1). Riconnetti o conferma la base con Applica; nessun nuovo tentativo automatico.",
+    "fr": "Événements automatiques en pause (HTTP %1). Reconnectez-vous ou confirmez la base avec Appliquer ; aucun nouvel essai automatique.",
+    "de": "Automatische Ereignisse pausiert (HTTP %1). Neu verbinden oder Basis mit Anwenden bestätigen; kein automatischer Wiederholungsversuch."
+  },
+  "Bloquear publicación": {
+    "es": "Bloquear publicación",
+    "en": "Lock publishing",
+    "it": "Blocca pubblicazione",
+    "fr": "Verrouiller la publication",
+    "de": "Veröffentlichung sperren"
+  },
+  "Pausa Apply y los eventos. Conserva los eventos recibidos hasta desbloquear.": {
+    "es": "Pausa Apply y los eventos. Conserva los eventos recibidos hasta desbloquear.",
+    "en": "Pause Apply and events. Received events are retained until unlocking.",
+    "it": "Sospende Applica e gli eventi. Gli eventi ricevuti restano conservati fino allo sblocco.",
+    "fr": "Suspend Appliquer et les événements. Les événements reçus sont conservés jusqu'au déverrouillage.",
+    "de": "Pausiert Anwenden und Ereignisse. Empfangene Ereignisse bleiben bis zum Entsperren erhalten."
+  },
+  "Recargar canal": {
+    "es": "Recargar canal",
+    "en": "Reload channel",
+    "it": "Ricarica canale",
+    "fr": "Recharger la chaîne",
+    "de": "Kanal neu laden"
+  },
+  "Configuración dañada o ilegible. No se sobrescribirá; revisa el archivo de estado.": {
+    "es": "Configuración dañada o ilegible. No se sobrescribirá; revisa el archivo de estado.",
+    "en": "Settings damaged or unreadable. They will not be overwritten; check the state file.",
+    "it": "Configurazione danneggiata o illeggibile. Non verrà sovrascritta; controlla il file di stato.",
+    "fr": "Configuration endommagée ou illisible. Elle ne sera pas écrasée ; vérifiez le fichier d'état.",
+    "de": "Einstellungen beschädigt oder unlesbar. Sie werden nicht überschrieben; Statusdatei prüfen."
+  },
+  "No se pudo guardar el estado. Publicación bloqueada para proteger los datos.": {
+    "es": "No se pudo guardar el estado. Publicación bloqueada para proteger los datos.",
+    "en": "Could not save state. Publishing locked to protect your data.",
+    "it": "Impossibile salvare lo stato. Pubblicazione bloccata per proteggere i dati.",
+    "fr": "Impossible d'enregistrer l'état. Publication verrouillée pour protéger les données.",
+    "de": "Status konnte nicht gespeichert werden. Veröffentlichung zum Schutz der Daten gesperrt."
+  },
+  "Borrador recuperado. Publicación bloqueada: revisa canal y eventos antes de desbloquear.": {
+    "es": "Borrador recuperado. Publicación bloqueada: revisa canal y eventos antes de desbloquear.",
+    "en": "Draft restored. Publishing locked: review channel and events before unlocking.",
+    "it": "Bozza recuperata. Pubblicazione bloccata: controlla canale ed eventi prima di sbloccare.",
+    "fr": "Brouillon restauré. Publication verrouillée : vérifiez chaîne et événements avant de déverrouiller.",
+    "de": "Entwurf wiederhergestellt. Veröffentlichung gesperrt: Kanal und Ereignisse vor dem Entsperren prüfen."
+  },
+  "Evento de prueba: ": {
+    "es": "Evento de prueba: ",
+    "en": "Test event: ",
+    "it": "Evento di prova: ",
+    "fr": "Événement de test : ",
+    "de": "Testereignis: "
+  },
+  "Core no disponible; actualiza los plugins compatibles.": {
+    "es": "Core no disponible; actualiza los plugins compatibles.",
+    "en": "Core unavailable; update compatible plugins.",
+    "it": "Core non disponibile; aggiorna i plugin compatibili.",
+    "fr": "Core indisponible ; mettez à jour les plugins compatibles.",
+    "de": "Core nicht verfügbar; kompatible Plugins aktualisieren."
+  },
+  "No se pudo leer el canal. Reconecta para reintentar.": {
+    "es": "No se pudo leer el canal. Reconecta para reintentar.",
+    "en": "Could not read the channel. Reconnect to retry.",
+    "it": "Impossibile leggere il canale. Riconnetti per riprovare.",
+    "fr": "Impossible de lire la chaîne. Reconnectez-vous pour réessayer.",
+    "de": "Kanal konnte nicht gelesen werden. Zum erneuten Versuch neu verbinden."
+  },
+  "Respuesta de canal vacía.": {
+    "es": "Respuesta de canal vacía.",
+    "en": "Empty channel response.",
+    "it": "Risposta del canale vuota.",
+    "fr": "Réponse de chaîne vide.",
+    "de": "Leere Kanalantwort."
+  },
+  "No se pudo buscar en Twitch. Inténtalo de nuevo.": {
+    "es": "No se pudo buscar en Twitch. Inténtalo de nuevo.",
+    "en": "Could not search Twitch. Try again.",
+    "it": "Impossibile cercare su Twitch. Riprova.",
+    "fr": "Impossible de rechercher sur Twitch. Réessayez.",
+    "de": "Twitch-Suche fehlgeschlagen. Erneut versuchen."
+  },
+  "Respuesta de categorías no válida.": {
+    "es": "Respuesta de categorías no válida.",
+    "en": "Invalid categories response.",
+    "it": "Risposta delle categorie non valida.",
+    "fr": "Réponse de catégories invalide.",
+    "de": "Ungültige Kategorienantwort."
+  },
+  "El título debe tener entre 1 y 140 caracteres.": {
+    "es": "El título debe tener entre 1 y 140 caracteres.",
+    "en": "Title must contain 1 to 140 characters.",
+    "it": "Il titolo deve contenere da 1 a 140 caratteri.",
+    "fr": "Le titre doit contenir entre 1 et 140 caractères.",
+    "de": "Der Titel muss 1 bis 140 Zeichen enthalten."
+  },
+  "Selecciona una categoría válida de Twitch.": {
+    "es": "Selecciona una categoría válida de Twitch.",
+    "en": "Select a valid Twitch category.",
+    "it": "Seleziona una categoria Twitch valida.",
+    "fr": "Sélectionnez une catégorie Twitch valide.",
+    "de": "Eine gültige Twitch-Kategorie auswählen."
+  },
+  "Se permiten hasta 10 tags.": {
+    "es": "Se permiten hasta 10 tags.",
+    "en": "Up to 10 tags are allowed.",
+    "it": "Sono consentiti fino a 10 tag.",
+    "fr": "Vous pouvez utiliser jusqu'à 10 tags.",
+    "de": "Bis zu 10 Tags sind zulässig."
+  },
+  "Cada tag debe tener de 1 a 25 letras o números, sin espacios.": {
+    "es": "Cada tag debe tener de 1 a 25 letras o números, sin espacios.",
+    "en": "Each tag must contain 1 to 25 letters or numbers, without spaces.",
+    "it": "Ogni tag deve contenere da 1 a 25 lettere o numeri, senza spazi.",
+    "fr": "Chaque tag doit contenir de 1 à 25 lettres ou chiffres, sans espace.",
+    "de": "Jeder Tag muss 1 bis 25 Buchstaben oder Ziffern ohne Leerzeichen enthalten."
+  },
+  "No repitas tags.": {
+    "es": "No repitas tags.",
+    "en": "Do not duplicate tags.",
+    "it": "Non ripetere i tag.",
+    "fr": "Ne répétez pas les tags.",
+    "de": "Tags nicht doppelt verwenden."
+  },
+  "Emojis · Unicode 17.0": {
+    "es": "Emojis · Unicode 17.0",
+    "en": "Emojis · Unicode 17.0",
+    "it": "Emoji · Unicode 17.0",
+    "fr": "Emojis · Unicode 17.0",
+    "de": "Emojis · Unicode 17.0"
+  },
+  "Selecciona un emoji para insertarlo en Base Title.": {
+    "es": "Selecciona un emoji para insertarlo en Base Title.",
+    "en": "Select an emoji to insert into Base Title.",
+    "it": "Seleziona un'emoji da inserire nel titolo base.",
+    "fr": "Sélectionnez un emoji à insérer dans le titre de base.",
+    "de": "Ein Emoji zum Einfügen in den Basistitel auswählen."
+  },
+  "Buscar: corazón, fiesta, music…": {
+    "es": "Buscar: corazón, fiesta, music…",
+    "en": "Search: heart, party, music…",
+    "it": "Cerca: cuore, festa, musica…",
+    "fr": "Chercher : cœur, fête, musique…",
+    "de": "Suchen: Herz, Party, Musik…"
+  },
+  "Buscar emoji": {
+    "es": "Buscar emoji",
+    "en": "Search emoji",
+    "it": "Cerca emoji",
+    "fr": "Chercher un emoji",
+    "de": "Emoji suchen"
+  },
+  "Categoría de emojis": {
+    "es": "Categoría de emojis",
+    "en": "Emoji category",
+    "it": "Categoria emoji",
+    "fr": "Catégorie d'emojis",
+    "de": "Emoji-Kategorie"
+  },
+  "Todos": {
+    "es": "Todos",
+    "en": "All",
+    "it": "Tutti",
+    "fr": "Tous",
+    "de": "Alle"
+  },
+  "Recientes": {
+    "es": "Recientes",
+    "en": "Recent",
+    "it": "Recenti",
+    "fr": "Récents",
+    "de": "Zuletzt verwendet"
+  },
+  "Caras y emociones": {
+    "es": "Caras y emociones",
+    "en": "Smileys and emotions",
+    "it": "Faccine ed emozioni",
+    "fr": "Visages et émotions",
+    "de": "Smileys und Emotionen"
+  },
+  "Personas y cuerpo": {
+    "es": "Personas y cuerpo",
+    "en": "People and body",
+    "it": "Persone e corpo",
+    "fr": "Personnes et corps",
+    "de": "Menschen und Körper"
+  },
+  "Componentes": {
+    "es": "Componentes",
+    "en": "Components",
+    "it": "Componenti",
+    "fr": "Composants",
+    "de": "Komponenten"
+  },
+  "Animales y naturaleza": {
+    "es": "Animales y naturaleza",
+    "en": "Animals and nature",
+    "it": "Animali e natura",
+    "fr": "Animaux et nature",
+    "de": "Tiere und Natur"
+  },
+  "Comida y bebida": {
+    "es": "Comida y bebida",
+    "en": "Food and drink",
+    "it": "Cibo e bevande",
+    "fr": "Nourriture et boissons",
+    "de": "Essen und Trinken"
+  },
+  "Viajes y lugares": {
+    "es": "Viajes y lugares",
+    "en": "Travel and places",
+    "it": "Viaggi e luoghi",
+    "fr": "Voyages et lieux",
+    "de": "Reisen und Orte"
+  },
+  "Actividades": {
+    "es": "Actividades",
+    "en": "Activities",
+    "it": "Attività",
+    "fr": "Activités",
+    "de": "Aktivitäten"
+  },
+  "Objetos": {
+    "es": "Objetos",
+    "en": "Objects",
+    "it": "Oggetti",
+    "fr": "Objets",
+    "de": "Objekte"
+  },
+  "Símbolos": {
+    "es": "Símbolos",
+    "en": "Symbols",
+    "it": "Simboli",
+    "fr": "Symboles",
+    "de": "Symbole"
+  },
+  "Banderas": {
+    "es": "Banderas",
+    "en": "Flags",
+    "it": "Bandiere",
+    "fr": "Drapeaux",
+    "de": "Flaggen"
+  },
+  "Emojis disponibles": {
+    "es": "Emojis disponibles",
+    "en": "Available emojis",
+    "it": "Emoji disponibili",
+    "fr": "Emojis disponibles",
+    "de": "Verfügbare Emojis"
+  },
+  "Los recientes duran esta sesión. La apariencia depende de las fuentes de Windows.": {
+    "es": "Los recientes duran esta sesión. La apariencia depende de las fuentes de Windows.",
+    "en": "Recent emojis last for this session. Appearance depends on Windows fonts.",
+    "it": "Gli emoji recenti durano questa sessione. L'aspetto dipende dai caratteri di Windows.",
+    "fr": "Les emojis récents durent cette session. Leur aspect dépend des polices Windows.",
+    "de": "Zuletzt verwendete Emojis gelten für diese Sitzung. Die Darstellung hängt von Windows-Schriftarten ab."
+  },
+  "PROTOTIPO · SIMULACIÓN LOCAL · ": {
+    "es": "PROTOTIPO · SIMULACIÓN LOCAL · ",
+    "en": "PROTOTYPE · LOCAL SIMULATION · ",
+    "it": "PROTOTIPO · SIMULAZIONE LOCALE · ",
+    "fr": "PROTOTYPE · SIMULATION LOCALE · ",
+    "de": "PROTOTYP · LOKALE SIMULATION · "
+  },
+  "TWITCH CORE · CONEXIÓN Y LECTURA · ": {
+    "es": "TWITCH CORE · CONEXIÓN Y LECTURA · ",
+    "en": "TWITCH CORE · CONNECTION AND READ · ",
+    "it": "TWITCH CORE · CONNESSIONE E LETTURA · ",
+    "fr": "TWITCH CORE · CONNEXION ET LECTURE · ",
+    "de": "TWITCH CORE · VERBINDUNG UND LESEN · "
+  },
+  "TWITCH · EDICIÓN MANUAL · ": {
+    "es": "TWITCH · EDICIÓN MANUAL · ",
+    "en": "TWITCH · MANUAL EDITING · ",
+    "it": "TWITCH · MODIFICA MANUALE · ",
+    "fr": "TWITCH · MODIFICATION MANUELLE · ",
+    "de": "TWITCH · MANUELLE BEARBEITUNG · "
+  },
+  "Ruta fuera de OBS.": {
+    "es": "Ruta fuera de OBS.",
+    "en": "Path outside OBS.",
+    "it": "Percorso esterno a OBS.",
+    "fr": "Chemin en dehors d'OBS.",
+    "de": "Pfad außerhalb von OBS."
+  },
+  "No se admiten enlaces de directorios.": {
+    "es": "No se admiten enlaces de directorios.",
+    "en": "Directory links are not supported.",
+    "it": "I collegamenti a cartelle non sono supportati.",
+    "fr": "Les liens de dossiers ne sont pas pris en charge.",
+    "de": "Verzeichnisverknüpfungen werden nicht unterstützt."
+  },
+  "Recurso ausente: ": {
+    "es": "Recurso ausente: ",
+    "en": "Missing resource: ",
+    "it": "Risorsa mancante: ",
+    "fr": "Ressource absente : ",
+    "de": "Fehlende Ressource: "
+  },
+  "Manifiesto demasiado grande.": {
+    "es": "Manifiesto demasiado grande.",
+    "en": "Manifest too large.",
+    "it": "Manifest troppo grande.",
+    "fr": "Manifeste trop volumineux.",
+    "de": "Manifest zu groß."
+  },
+  "Manifiesto inválido.": {
+    "es": "Manifiesto inválido.",
+    "en": "Invalid manifest.",
+    "it": "Manifest non valido.",
+    "fr": "Manifeste invalide.",
+    "de": "Ungültiges Manifest."
+  },
+  "Selecciona la carpeta que contiene bin/64bit/obs64.exe.": {
+    "es": "Selecciona la carpeta que contiene bin/64bit/obs64.exe.",
+    "en": "Select the folder containing bin/64bit/obs64.exe.",
+    "it": "Seleziona la cartella contenente bin/64bit/obs64.exe.",
+    "fr": "Sélectionnez le dossier contenant bin/64bit/obs64.exe.",
+    "de": "Den Ordner mit bin/64bit/obs64.exe auswählen."
+  },
+  "Se necesita OBS 32.x de Windows x64.": {
+    "es": "Se necesita OBS 32.x de Windows x64.",
+    "en": "OBS 32.x for Windows x64 is required.",
+    "it": "È richiesto OBS 32.x per Windows x64.",
+    "fr": "OBS 32.x pour Windows x64 est requis.",
+    "de": "OBS 32.x für Windows x64 wird benötigt."
+  },
+  "OBS no es un ejecutable válido.": {
+    "es": "OBS no es un ejecutable válido.",
+    "en": "OBS is not a valid executable.",
+    "it": "OBS non è un eseguibile valido.",
+    "fr": "OBS n'est pas un exécutable valide.",
+    "de": "OBS ist keine gültige Programmdatei."
+  },
+  "OBS debe ser x64.": {
+    "es": "OBS debe ser x64.",
+    "en": "OBS must be x64.",
+    "it": "OBS deve essere x64.",
+    "fr": "OBS doit être x64.",
+    "de": "OBS muss x64 sein."
+  },
+  "Cierra OBS antes de instalar o desinstalar.": {
+    "es": "Cierra OBS antes de instalar o desinstalar.",
+    "en": "Close OBS before installing or uninstalling.",
+    "it": "Chiudi OBS prima di installare o disinstallare.",
+    "fr": "Fermez OBS avant d'installer ou de désinstaller.",
+    "de": "OBS vor der Installation oder Deinstallation schließen."
+  },
+  "La integridad del paquete no es correcta.": {
+    "es": "La integridad del paquete no es correcta.",
+    "en": "Package integrity check failed.",
+    "it": "Verifica di integrità del pacchetto non riuscita.",
+    "fr": "La vérification d'intégrité du paquet a échoué.",
+    "de": "Integritätsprüfung des Pakets fehlgeschlagen."
+  },
+  "Hay una versión posterior de Dynamic Stream Title.": {
+    "es": "Hay una versión posterior de Dynamic Stream Title.",
+    "en": "A newer Dynamic Stream Title version is installed.",
+    "it": "È installata una versione più recente di Dynamic Stream Title.",
+    "fr": "Une version plus récente de Dynamic Stream Title est installée.",
+    "de": "Eine neuere Version von Dynamic Stream Title ist installiert."
+  },
+  "Registro del Core inválido.": {
+    "es": "Registro del Core inválido.",
+    "en": "Invalid Core record.",
+    "it": "Registro del Core non valido.",
+    "fr": "Registre du Core invalide.",
+    "de": "Ungültiger Core-Eintrag."
+  },
+  "Overlay instalado requiere una actualización compatible antes de compartir este Core. No se modificó Overlay.": {
+    "es": "Overlay instalado requiere una actualización compatible antes de compartir este Core. No se modificó Overlay.",
+    "en": "The installed Overlay needs a compatible update before sharing this Core. Overlay was not changed.",
+    "it": "Overlay installato richiede un aggiornamento compatibile per condividere questo Core. Overlay non è stato modificato.",
+    "fr": "Overlay installé nécessite une mise à jour compatible avant de partager ce Core. Overlay n'a pas été modifié.",
+    "de": "Das installierte Overlay benötigt ein kompatibles Update für diesen Core. Overlay wurde nicht geändert."
+  },
+  "El Core existente pertenece a otro consumidor o no está identificado. Se conserva sin reemplazar.": {
+    "es": "El Core existente pertenece a otro consumidor o no está identificado. Se conserva sin reemplazar.",
+    "en": "The existing Core belongs to another consumer or is unidentified. It is preserved without replacement.",
+    "it": "Il Core esistente appartiene a un altro utilizzatore o non è identificato. Viene conservato senza sostituzione.",
+    "fr": "Le Core existant appartient à un autre composant ou n'est pas identifié. Il est conservé sans remplacement.",
+    "de": "Der vorhandene Core gehört einem anderen Verbraucher oder ist unbekannt. Er wird nicht ersetzt."
+  },
+  "Hay un Core posterior; no se permite degradarlo.": {
+    "es": "Hay un Core posterior; no se permite degradarlo.",
+    "en": "A newer Core exists; downgrade is not allowed.",
+    "it": "È presente un Core più recente; il downgrade non è consentito.",
+    "fr": "Un Core plus récent existe ; la rétrogradation est interdite.",
+    "de": "Ein neuerer Core ist vorhanden; ein Downgrade ist nicht zulässig."
+  },
+  "El plugin fue sustituido por otra versión. Se conserva sin borrar.": {
+    "es": "El plugin fue sustituido por otra versión. Se conserva sin borrar.",
+    "en": "The plugin was replaced by another version. It is preserved without deletion.",
+    "it": "Il plugin è stato sostituito da un'altra versione. Viene conservato senza eliminarlo.",
+    "fr": "Le plugin a été remplacé par une autre version. Il est conservé sans suppression.",
+    "de": "Das Plugin wurde durch eine andere Version ersetzt. Es wird nicht gelöscht."
+  },
+  "Registro del Core inválido; no se modifica.": {
+    "es": "Registro del Core inválido; no se modifica.",
+    "en": "Invalid Core record; no changes made.",
+    "it": "Registro del Core non valido; nessuna modifica.",
+    "fr": "Registre du Core invalide ; aucune modification.",
+    "de": "Ungültiger Core-Eintrag; keine Änderung."
+  },
+  "No se completó la operación con permisos de administrador.": {
+    "es": "No se completó la operación con permisos de administrador.",
+    "en": "The operation with administrator permissions did not complete.",
+    "it": "L'operazione con privilegi di amministratore non è stata completata.",
+    "fr": "L'opération avec les droits administrateur n'a pas abouti.",
+    "de": "Der Vorgang mit Administratorrechten wurde nicht abgeschlossen."
+  },
+  "OBS 32.x · Windows x64 · versión de pruebas": {
+    "es": "OBS 32.x · Windows x64 · versión de pruebas",
+    "en": "OBS 32.x · Windows x64 · test version",
+    "it": "OBS 32.x · Windows x64 · versione di prova",
+    "fr": "OBS 32.x · Windows x64 · version de test",
+    "de": "OBS 32.x · Windows x64 · Testversion"
+  },
+  "Incluye Twitch Core. Conserva configuración y otros plugins.": {
+    "es": "Incluye Twitch Core. Conserva configuración y otros plugins.",
+    "en": "Includes Twitch Core. Preserves settings and other plugins.",
+    "it": "Include Twitch Core. Conserva impostazioni e altri plugin.",
+    "fr": "Inclut Twitch Core. Conserve les paramètres et les autres plugins.",
+    "de": "Enthält Twitch Core. Bewahrt Einstellungen und andere Plugins."
+  },
+  "Carpeta…": {
+    "es": "Carpeta…",
+    "en": "Folder…",
+    "it": "Cartella…",
+    "fr": "Dossier…",
+    "de": "Ordner…"
+  },
+  "Selecciona la carpeta raíz de OBS 32.x": {
+    "es": "Selecciona la carpeta raíz de OBS 32.x",
+    "en": "Select the OBS 32.x root folder",
+    "it": "Seleziona la cartella principale di OBS 32.x",
+    "fr": "Sélectionnez le dossier racine d'OBS 32.x",
+    "de": "Den Hauptordner von OBS 32.x auswählen"
+  },
+  "Cierra OBS antes de continuar. Las pruebas en directo siguen pendientes.": {
+    "es": "Cierra OBS antes de continuar. Las pruebas en directo siguen pendientes.",
+    "en": "Close OBS before continuing. Live-stream tests are still pending.",
+    "it": "Chiudi OBS prima di continuare. I test in diretta sono ancora in sospeso.",
+    "fr": "Fermez OBS avant de continuer. Les tests en direct restent à effectuer.",
+    "de": "OBS vor dem Fortfahren schließen. Livestream-Tests stehen noch aus."
+  },
+  "Instalar / actualizar": {
+    "es": "Instalar / actualizar",
+    "en": "Install / update",
+    "it": "Installa / aggiorna",
+    "fr": "Installer / mettre à jour",
+    "de": "Installieren / aktualisieren"
+  },
+  "Desinstalar": {
+    "es": "Desinstalar",
+    "en": "Uninstall",
+    "it": "Disinstalla",
+    "fr": "Désinstaller",
+    "de": "Deinstallieren"
+  },
+  "Operación completada. Configuración del usuario conservada.": {
+    "es": "Operación completada. Configuración del usuario conservada.",
+    "en": "Operation completed. User settings preserved.",
+    "it": "Operazione completata. Impostazioni utente conservate.",
+    "fr": "Opération terminée. Paramètres utilisateur conservés.",
+    "de": "Vorgang abgeschlossen. Benutzereinstellungen erhalten."
+  },
+  "Guía de uso PDF": {
+    "es": "Guía de uso PDF",
+    "en": "PDF user guide",
+    "it": "Guida PDF",
+    "fr": "Guide PDF",
+    "de": "PDF-Benutzerhandbuch"
+  },
+  "Idioma": {
+    "es": "Idioma",
+    "en": "Language",
+    "it": "Lingua",
+    "fr": "Langue",
+    "de": "Sprache"
+  },
+  "Actualiza Overlay 0.14.5 reconocido con backup; conserva presets y ajustes.": {
+    "es": "Actualiza Overlay 0.14.5 reconocido con backup; conserva presets y ajustes.",
+    "en": "Updates recognized Overlay 0.14.5 with a backup; keeps presets and settings.",
+    "it": "Aggiorna Overlay 0.14.5 riconosciuto con backup; conserva preset e impostazioni.",
+    "fr": "Met à jour Overlay 0.14.5 reconnu avec sauvegarde ; conserve préréglages et paramètres.",
+    "de": "Aktualisiert erkanntes Overlay 0.14.5 mit Sicherung; behält Presets und Einstellungen."
+  },
+  "Contrato de Twitch Core inválido.": {
+    "es": "Contrato de Twitch Core inválido.",
+    "en": "Invalid Twitch Core contract.",
+    "it": "Contratto Twitch Core non valido.",
+    "fr": "Contrat Twitch Core invalide.",
+    "de": "Ungültiger Twitch-Core-Vertrag."
+  },
+  "{0} requiere Twitch Core >= {1}, < {2}, ABI {3}. Core seleccionado: {4}, ABI {5}.": {
+    "es": "{0} requiere Twitch Core >= {1}, < {2}, ABI {3}. Core seleccionado: {4}, ABI {5}.",
+    "en": "{0} requires Twitch Core >= {1}, < {2}, ABI {3}. Selected Core: {4}, ABI {5}.",
+    "it": "{0} richiede Twitch Core >= {1}, < {2}, ABI {3}. Core selezionato: {4}, ABI {5}.",
+    "fr": "{0} nécessite Twitch Core >= {1}, < {2}, ABI {3}. Core sélectionné : {4}, ABI {5}.",
+    "de": "{0} benötigt Twitch Core >= {1}, < {2}, ABI {3}. Ausgewählter Core: {4}, ABI {5}."
+  },
+  "No se puede verificar la compatibilidad de {0}. Actualiza ese plugin; no se modificó Twitch Core.": {
+    "es": "No se puede verificar la compatibilidad de {0}. Actualiza ese plugin; no se modificó Twitch Core.",
+    "en": "Cannot verify compatibility of {0}. Update that plugin; Twitch Core was not changed.",
+    "it": "Impossibile verificare la compatibilità di {0}. Aggiorna il plugin; Twitch Core non è stato modificato.",
+    "fr": "Impossible de vérifier la compatibilité de {0}. Mettez ce plugin à jour ; Twitch Core n’a pas été modifié.",
+    "de": "Kompatibilität von {0} kann nicht geprüft werden. Aktualisiere dieses Plugin; Twitch Core wurde nicht geändert."
+  },
+  "Misma versión de Twitch Core con contenido diferente. Se conserva sin reemplazar.": {
+    "es": "Misma versión de Twitch Core con contenido diferente. Se conserva sin reemplazar.",
+    "en": "Same Twitch Core version with different content. Preserved without replacement.",
+    "it": "Stessa versione Twitch Core con contenuto diverso. Conservata senza sostituzione.",
+    "fr": "Même version Twitch Core avec un contenu différent. Conservée sans remplacement.",
+    "de": "Gleiche Twitch-Core-Version mit anderem Inhalt. Bleibt unverändert erhalten."
+  },
+  "OBS 32.x · Windows x64 · versión oficial": {
+    "es": "OBS 32.x · Windows x64 · versión oficial",
+    "en": "OBS 32.x · Windows x64 · official release",
+    "it": "OBS 32.x · Windows x64 · versione ufficiale",
+    "fr": "OBS 32.x · Windows x64 · version officielle",
+    "de": "OBS 32.x · Windows x64 · offizielle Version"
+  },
+  "Cierra OBS antes de continuar. Tu configuración se conserva.": {
+    "es": "Cierra OBS antes de continuar. Tu configuración se conserva.",
+    "en": "Close OBS before continuing. Your settings are preserved.",
+    "it": "Chiudi OBS prima di continuare. Le impostazioni vengono conservate.",
+    "fr": "Fermez OBS avant de continuer. Vos paramètres sont conservés.",
+    "de": "Schließe OBS, bevor du fortfährst. Deine Einstellungen bleiben erhalten."
+  },
+  "Cambio externo leído. Base actualizada y borrador conservado.": {
+    "es": "Cambio externo leído. Base actualizada y borrador conservado.",
+    "en": "External change read. Base updated and draft preserved.",
+    "it": "Modifica esterna letta. Base aggiornata e bozza conservata.",
+    "fr": "Modification externe lue. Base mise à jour et brouillon conservé.",
+    "de": "Externe Änderung gelesen. Basis aktualisiert und Entwurf erhalten."
+  },
+  "Cambio externo detectado. Borrador conservado; pulsa Recargar canal y vuelve a aplicar.": {
+    "es": "Cambio externo detectado. Borrador conservado; pulsa Recargar canal y vuelve a aplicar.",
+    "en": "External change detected. Draft preserved; click Reload channel and apply again.",
+    "it": "Modifica esterna rilevata. Bozza conservata; premi Ricarica canale e applica di nuovo.",
+    "fr": "Modification externe détectée. Brouillon conservé ; rechargez le canal puis appliquez à nouveau.",
+    "de": "Externe Änderung erkannt. Entwurf erhalten; lade den Kanal neu und wende erneut an."
+  },
+  "Canal fuera de directo. Evento automático ignorado; no se publicó el título.": {
+    "es": "Canal fuera de directo. Evento automático ignorado; no se publicó el título.",
+    "en": "Channel is offline. Automatic event ignored; title was not published.",
+    "it": "Canale offline. Evento automatico ignorato; titolo non pubblicato.",
+    "fr": "Chaîne hors ligne. Événement automatique ignoré ; titre non publié.",
+    "de": "Kanal ist offline. Automatisches Ereignis ignoriert; Titel nicht veröffentlicht."
+  },
+  "Cambio externo detectado. Evento pendiente; pulsa Recargar canal para reconciliar.": {
+    "es": "Cambio externo detectado. Evento pendiente; pulsa Recargar canal para reconciliar.",
+    "en": "External change detected. Event pending; click Reload channel to reconcile.",
+    "it": "Modifica esterna rilevata. Evento in attesa; premi Ricarica canale per riconciliare.",
+    "fr": "Modification externe détectée. Événement en attente ; rechargez le canal pour réconcilier.",
+    "de": "Externe Änderung erkannt. Ereignis ausstehend; lade den Kanal zum Abgleichen neu."
+  },
+  "Eventos automáticos pausados (HTTP %1). Recarga el canal o aplica la base para reintentar.": {
+    "es": "Eventos automáticos pausados (HTTP %1). Recarga el canal o aplica la base para reintentar.",
+    "en": "Automatic events paused (HTTP %1). Reload the channel or apply the base to retry.",
+    "it": "Eventi automatici in pausa (HTTP %1). Ricarica il canale o applica la base per riprovare.",
+    "fr": "Événements automatiques en pause (HTTP %1). Rechargez le canal ou appliquez la base pour réessayer.",
+    "de": "Automatische Ereignisse pausiert (HTTP %1). Lade den Kanal neu oder wende die Basis an."
+  },
+  "Configuración dañada o ilegible. No se sobrescribirá; los cambios se mantienen en memoria.": {
+    "es": "Configuración dañada o ilegible. No se sobrescribirá; los cambios se mantienen en memoria.",
+    "en": "Settings are damaged or unreadable. File preserved; changes stay in memory.",
+    "it": "Impostazioni danneggiate o illeggibili. File conservato; modifiche mantenute in memoria.",
+    "fr": "Paramètres endommagés ou illisibles. Fichier conservé ; modifications gardées en mémoire.",
+    "de": "Einstellungen beschädigt oder unlesbar. Datei bleibt erhalten; Änderungen bleiben im Speicher."
+  },
+  "No se pudo guardar el estado. Puedes publicar; los cambios solo se conservan durante esta sesión.": {
+    "es": "No se pudo guardar el estado. Puedes publicar; los cambios solo se conservan durante esta sesión.",
+    "en": "Could not save state. You can publish; changes are kept for this session only.",
+    "it": "Impossibile salvare lo stato. Puoi pubblicare; modifiche conservate solo per questa sessione.",
+    "fr": "Impossible d’enregistrer l’état. Vous pouvez publier ; modifications conservées pour cette session seulement.",
+    "de": "Zustand konnte nicht gespeichert werden. Veröffentlichung möglich; Änderungen gelten nur für diese Sitzung."
+  },
+  "Sesión recuperada. Las automatizaciones continúan con la base aplicada; el borrador no se publica.": {
+    "es": "Sesión recuperada. Las automatizaciones continúan con la base aplicada; el borrador no se publica.",
+    "en": "Session restored. Automations continue using the applied base; draft is not published.",
+    "it": "Sessione ripristinata. Automazioni attive sulla base applicata; la bozza non viene pubblicata.",
+    "fr": "Session restaurée. Automatisations sur la base appliquée ; le brouillon n’est pas publié.",
+    "de": "Sitzung wiederhergestellt. Automatiken verwenden die angewandte Basis; der Entwurf wird nicht veröffentlicht."
+  },
+  "La base contiene un bloque automático anterior. Revisa la base y pulsa Apply para evitar duplicados.": {
+    "es": "La base contiene un bloque automático anterior. Revisa la base y pulsa Apply para evitar duplicados.",
+    "en": "The base contains a previous automatic block. Review the base and click Apply to avoid duplicates.",
+    "it": "La base contiene un blocco automatico precedente. Controlla la base e premi Applica per evitare duplicati.",
+    "fr": "La base contient un ancien bloc automatique. Vérifiez la base puis appliquez pour éviter les doublons.",
+    "de": "Die Basis enthält einen alten automatischen Block. Prüfe die Basis und wende sie an, um Duplikate zu vermeiden."
+  }
+}

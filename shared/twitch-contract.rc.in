@@ -1,0 +1,2 @@
+#include <windows.h>
+NEXUS_TWITCH_CONTRACT RCDATA "@NEXUS_CONTRACT_FILE@"

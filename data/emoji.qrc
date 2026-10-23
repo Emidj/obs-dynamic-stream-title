@@ -1,0 +1,1 @@
+<RCC><qresource prefix="/dst/emoji"><file alias="catalog.json">emoji/catalog.json</file></qresource><qresource prefix="/dst/branding"><file alias="nexus-logo.png">branding/nexus-logo.png</file></qresource><qresource prefix="/dst/locale"><file alias="strings.json">locale/strings.json</file></qresource></RCC>
