@@ -797,12 +797,12 @@
     "fr": "Sélectionnez le dossier contenant bin/64bit/obs64.exe.",
     "de": "Den Ordner mit bin/64bit/obs64.exe auswählen."
   },
-  "Se necesita OBS 32.x de Windows x64.": {
-    "es": "Se necesita OBS 32.x de Windows x64.",
-    "en": "OBS 32.x for Windows x64 is required.",
-    "it": "È richiesto OBS 32.x per Windows x64.",
-    "fr": "OBS 32.x pour Windows x64 est requis.",
-    "de": "OBS 32.x für Windows x64 wird benötigt."
+  "Se necesita OBS 32.x–33.x de Windows x64.": {
+    "es": "Se necesita OBS 32.x–33.x de Windows x64.",
+    "en": "OBS 32.x–33.x for Windows x64 is required.",
+    "it": "È richiesto OBS 32.x–33.x per Windows x64.",
+    "fr": "OBS 32.x–33.x pour Windows x64 est requis.",
+    "de": "OBS 32.x–33.x für Windows x64 wird benötigt."
   },
   "OBS no es un ejecutable válido.": {
     "es": "OBS no es un ejecutable válido.",
@@ -888,12 +888,12 @@
     "fr": "L'opération avec les droits administrateur n'a pas abouti.",
     "de": "Der Vorgang mit Administratorrechten wurde nicht abgeschlossen."
   },
-  "OBS 32.x · Windows x64 · versión de pruebas": {
-    "es": "OBS 32.x · Windows x64 · versión de pruebas",
-    "en": "OBS 32.x · Windows x64 · test version",
-    "it": "OBS 32.x · Windows x64 · versione di prova",
-    "fr": "OBS 32.x · Windows x64 · version de test",
-    "de": "OBS 32.x · Windows x64 · Testversion"
+  "OBS 32.x–33.x · Windows x64 · versión de pruebas": {
+    "es": "OBS 32.x–33.x · Windows x64 · versión de pruebas",
+    "en": "OBS 32.x–33.x · Windows x64 · test version",
+    "it": "OBS 32.x–33.x · Windows x64 · versione di prova",
+    "fr": "OBS 32.x–33.x · Windows x64 · version de test",
+    "de": "OBS 32.x–33.x · Windows x64 · Testversion"
   },
   "Incluye Twitch Core. Conserva configuración y otros plugins.": {
     "es": "Incluye Twitch Core. Conserva configuración y otros plugins.",
@@ -909,12 +909,12 @@
     "fr": "Dossier…",
     "de": "Ordner…"
   },
-  "Selecciona la carpeta raíz de OBS 32.x": {
-    "es": "Selecciona la carpeta raíz de OBS 32.x",
-    "en": "Select the OBS 32.x root folder",
-    "it": "Seleziona la cartella principale di OBS 32.x",
-    "fr": "Sélectionnez le dossier racine d'OBS 32.x",
-    "de": "Den Hauptordner von OBS 32.x auswählen"
+  "Selecciona la carpeta raíz de OBS 32.x–33.x": {
+    "es": "Selecciona la carpeta raíz de OBS 32.x–33.x",
+    "en": "Select the OBS 32.x–33.x root folder",
+    "it": "Seleziona la cartella principale di OBS 32.x–33.x",
+    "fr": "Sélectionnez le dossier racine d'OBS 32.x–33.x",
+    "de": "Den Hauptordner von OBS 32.x–33.x auswählen"
   },
   "Cierra OBS antes de continuar. Las pruebas en directo siguen pendientes.": {
     "es": "Cierra OBS antes de continuar. Las pruebas en directo siguen pendientes.",
@@ -993,12 +993,12 @@
     "fr": "Même version Twitch Core avec un contenu différent. Conservée sans remplacement.",
     "de": "Gleiche Twitch-Core-Version mit anderem Inhalt. Bleibt unverändert erhalten."
   },
-  "OBS 32.x · Windows x64 · versión oficial": {
-    "es": "OBS 32.x · Windows x64 · versión oficial",
-    "en": "OBS 32.x · Windows x64 · official release",
-    "it": "OBS 32.x · Windows x64 · versione ufficiale",
-    "fr": "OBS 32.x · Windows x64 · version officielle",
-    "de": "OBS 32.x · Windows x64 · offizielle Version"
+  "OBS 32.x–33.x · Windows x64 · versión oficial": {
+    "es": "OBS 32.x–33.x · Windows x64 · versión oficial",
+    "en": "OBS 32.x–33.x · Windows x64 · official release",
+    "it": "OBS 32.x–33.x · Windows x64 · versione ufficiale",
+    "fr": "OBS 32.x–33.x · Windows x64 · version officielle",
+    "de": "OBS 32.x–33.x · Windows x64 · offizielle Version"
   },
   "Cierra OBS antes de continuar. Tu configuración se conserva.": {
     "es": "Cierra OBS antes de continuar. Tu configuración se conserva.",

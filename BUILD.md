@@ -1,6 +1,6 @@
 # Compilar y empaquetar
 
-Requiere Windows x64, Visual Studio 2022 C++ Build Tools, CMake 3.28+, Qt 6.8.3, SDK libobs/obs-frontend-api y CURL con paquetes CMake compatibles. El motor reutilizado se compila desde la copia incluida de Overlay; no necesita el repositorio original como fuente. Se utiliza el SDK OBS 31.1.1 para conservar una base de símbolos compatible; el módulo comprueba OBS 32.x al cargar.
+Requiere Windows x64, Visual Studio 2022 C++ Build Tools, CMake 3.28+, Qt 6.8.3, SDK libobs/obs-frontend-api y CURL con paquetes CMake compatibles. El motor reutilizado se compila desde la copia incluida de Overlay; no necesita el repositorio original como fuente. Se utiliza el SDK OBS 31.1.1 para conservar una base de símbolos compatible; el módulo comprueba OBS 32.x–33.x al cargar.
 
 Configurar `CMAKE_PREFIX_PATH`, `libobs_DIR` y `obs-frontend-api_DIR` con las dependencias locales. No se incluyen SDK ni credenciales en las fuentes.
 

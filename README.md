@@ -4,6 +4,12 @@ An OBS Studio dock for managing Twitch stream titles, categories and tags, with 
 
 **Official stable release: 1.0.0.** [Download the Windows installer and release files](https://github.com/Emidj/obs-dynamic-stream-title/releases/tag/v1.0.0). Source code, build instructions and example images are included in this repository.
 
+## Updated 1.0.0 build — November 3, 2026
+
+The latest downloads support **OBS 32.x and 33.x on Windows x64**. Version stays 1.0.0. Real isolated OBS 33.0.1 / Qt 6.11.1 loaded the dock and displayed the Unicode emoji picker; the header now wraps in narrow panels. The installer preserves newer compatible shared Core versions, including the tested Core 1.3.1 ABI 6. The package still bundles Core 1.1.0.
+
+Use the current **Setup.exe** and **Source.zip** release assets. Earlier artifacts are retained as `initial-20261023`; the original v1.0.0 tag is unchanged. See [update notes](UPDATE-2026-11-03.md) for validation and limits. No live raid/Hype or extended stream on OBS 33 is claimed.
+
 ## Features
 
 - **Manual title editor:** prepare a base title, category and tags, insert emojis and review the result before publishing.

@@ -1,0 +1,3 @@
+# Updated 1.0.0 publication — 2026-11-03
+
+Official local installer SHA256 490135a5b4509105b8eeacd36aeeececa1df21b019e0939243b22636137c9d1a, unchanged during publication. Development source ZIP SHA256 87a9a361d009be4d90f27b3cd3cb5eb6279dc56c25348b123f1d88263f85bdd5. Repacked corresponding source retains gallery and licenses and normalizes development paths. No credentials or private state are included; secret-pattern scanning is bounded evidence. Original release assets and original tag are retained. Current source asset and main include the OBS 33 compatibility revision. No habitual OBS changes or Twitch publication performed for upload.

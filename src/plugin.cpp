@@ -63,10 +63,10 @@ bool obs_module_load()
 {
  const auto version=obs_get_version();
  if(!dst::supportedObsVersion(version)){
-  blog(LOG_ERROR,"[Dynamic Stream Title] Unsupported OBS version %s; expected OBS 32.x (Windows x64)",obs_get_version_string());
+  blog(LOG_ERROR,"[Dynamic Stream Title] Unsupported OBS version %s; expected OBS 32.x–33.x (Windows x64)",obs_get_version_string());
   return false;
  }
- blog(LOG_INFO,"[Dynamic Stream Title] Loading %s on OBS %s (Windows x64, supported range 32.x)",DST_VERSION,obs_get_version_string());
+ blog(LOG_INFO,"[Dynamic Stream Title] Loading %s on OBS %s (Windows x64, supported range 32.x–33.x)",DST_VERSION,obs_get_version_string());
  return true;
 }
 void obs_module_post_load()

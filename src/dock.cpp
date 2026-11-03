@@ -44,7 +44,7 @@ Dock::Dock(QWidget *parent):QWidget(parent)
  }
  headerLayout->addWidget(brand);
  auto *wordmark=new QWidget(header);auto *wordmarkLayout=new QVBoxLayout(wordmark);wordmarkLayout->setContentsMargins(0,0,0,0);wordmarkLayout->setSpacing(0);wordmarkLayout->setAlignment(Qt::AlignVCenter);
- auto *name=label("Dynamic Stream Title",wordmark);name->setObjectName("productName");name->setMinimumWidth(0);name->setSizePolicy(QSizePolicy::Ignored,QSizePolicy::Preferred);wordmarkLayout->addWidget(name);
+ auto *name=label("Dynamic Stream Title",wordmark);name->setObjectName("productName");name->setMinimumWidth(0);name->setMinimumHeight(52);name->setSizePolicy(QSizePolicy::Ignored,QSizePolicy::Preferred);wordmarkLayout->addWidget(name);
  auto *subtitle=label("for Twitch",wordmark);subtitle->setObjectName("productSubtitle");wordmarkLayout->addWidget(subtitle);headerLayout->addWidget(wordmark,1);
  layout->addWidget(header);
  auto *notice=label(dst::uiText(QString::fromUtf8("PROTOTIPO · SIMULACIÓN LOCAL · "))+QStringLiteral(DST_VERSION),body);notice->setObjectName("demoNotice");layout->addWidget(notice);

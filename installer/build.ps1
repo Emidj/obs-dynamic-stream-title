@@ -18,7 +18,7 @@ $metadata="internal static class Payload { public const string Version=`"$versio
 $metadata | Set-Content build/Payload.cs -Encoding utf8
 $readme=@'
 Dynamic Stream Title for Twitch — NEXUS 1.0.0
-OBS 32.x, Windows x64. Cierra OBS y selecciona su carpeta raíz en el instalador.
+OBS 32.x–33.x, Windows x64. Cierra OBS y selecciona su carpeta raíz en el instalador.
 Puedes usar el mismo EXE para instalar, actualizar o desinstalar.
 
 Apply publica el borrador manual. Raiders y Hype solo cambian el título aplicado.
